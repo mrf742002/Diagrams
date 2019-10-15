@@ -1,4 +1,4 @@
-<mxfile modified="2019-10-15T15:40:39.620Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="ApFHToRaiz5AqqpQFUBf" version="12.1.1" type="github" pages="6">
+<mxfile modified="2019-10-15T15:40:57.107Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="1_2eHewMEsiYUiol6yvz" version="12.1.1" type="github" pages="6">
   <diagram name="Bottomline- As is" id="rW5LLaT378y4CxN89vqR">
     <mxGraphModel dx="925" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -76,11 +76,11 @@
             <mxPoint x="318" y="460" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zo6PW9Q317roOhx8R3go-6" value="Remittances" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="Zo6PW9Q317roOhx8R3go-1" source="Zo6PW9Q317roOhx8R3go-7" target="Zo6PW9Q317roOhx8R3go-15" edge="1">
+        <mxCell id="Zo6PW9Q317roOhx8R3go-6" value="Remittances" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="Zo6PW9Q317roOhx8R3go-1" source="Zo6PW9Q317roOhx8R3go-7" target="Zo6PW9Q317roOhx8R3go-15" edge="1">
           <mxGeometry x="0.2155" relative="1" as="geometry">
             <mxPoint x="240" y="450" as="targetPoint"/>
             <Array as="points">
-              <mxPoint x="40" y="540"/>
+              <mxPoint x="48" y="585"/>
             </Array>
             <mxPoint as="offset"/>
           </mxGeometry>
