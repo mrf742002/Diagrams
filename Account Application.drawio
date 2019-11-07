@@ -1,4 +1,4 @@
-<mxfile modified="2019-11-07T14:27:55.699Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="fh5eFqpI9nFnfpVXjNs7" version="12.2.2" type="github" pages="2">
+<mxfile modified="2019-11-07T14:28:16.936Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="uGTziilOy7-cjFxqxtj0" version="12.2.2" type="github" pages="2">
   <diagram id="I0bLfncfjT9ffKwwWELv" name="Accept">
     <mxGraphModel dx="1209" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -182,9 +182,6 @@
         </mxCell>
         <mxCell id="JmengMzgopt4f8I5Psx5-4" value="END" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=end;symbol=general;" parent="6zzG9t84l0em-5m2Y7m6-1" vertex="1">
           <mxGeometry x="61" y="600" width="50" height="50" as="geometry"/>
-        </mxCell>
-        <mxCell id="JmengMzgopt4f8I5Psx5-7" value="Review Application" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="6zzG9t84l0em-5m2Y7m6-1" vertex="1">
-          <mxGeometry x="111" y="265" width="120" height="10" as="geometry"/>
         </mxCell>
         <mxCell id="JmengMzgopt4f8I5Psx5-14" value="Activity" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="6zzG9t84l0em-5m2Y7m6-1" vertex="1">
           <mxGeometry x="480" y="306" width="50" height="46" as="geometry"/>
