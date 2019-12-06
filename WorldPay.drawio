@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-06T14:48:09.571Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="XfCZew1nBJ3EBon8jQcK" version="12.3.7" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-12-06T14:49:21.551Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="q3Jbs82Oi6m4epW5drtE" version="12.3.7" type="github" pages="3">
   <diagram id="6VPwzptJOM97OtvvR8Qk" name="On Prem">
     <mxGraphModel dx="1209" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -160,15 +160,6 @@
         <mxCell id="KMeHAnd6bFp7Z-bjCFdS-20" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.smartphone;" vertex="1" parent="KMeHAnd6bFp7Z-bjCFdS-1">
           <mxGeometry x="340" y="438" width="40" height="42" as="geometry"/>
         </mxCell>
-        <mxCell id="KMeHAnd6bFp7Z-bjCFdS-24" value="listen on defined, socket/port" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="KMeHAnd6bFp7Z-bjCFdS-1">
-          <mxGeometry x="45" y="168" width="170" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="KMeHAnd6bFp7Z-bjCFdS-25" value="file transfer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="KMeHAnd6bFp7Z-bjCFdS-1">
-          <mxGeometry x="90" y="233" width="80" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="KMeHAnd6bFp7Z-bjCFdS-26" value="Or" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="KMeHAnd6bFp7Z-bjCFdS-1">
-          <mxGeometry x="110" y="203" width="30" height="20" as="geometry"/>
-        </mxCell>
         <mxCell id="KMeHAnd6bFp7Z-bjCFdS-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.8;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="KMeHAnd6bFp7Z-bjCFdS-1" source="KMeHAnd6bFp7Z-bjCFdS-28" target="KMeHAnd6bFp7Z-bjCFdS-13">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
@@ -190,8 +181,8 @@
         <mxCell id="KMeHAnd6bFp7Z-bjCFdS-34" value="Payment Request" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="KMeHAnd6bFp7Z-bjCFdS-1">
           <mxGeometry x="179" y="288" width="110" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="KMeHAnd6bFp7Z-bjCFdS-35" value="Aut Request" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="KMeHAnd6bFp7Z-bjCFdS-1">
-          <mxGeometry x="289" y="152" width="80" height="20" as="geometry"/>
+        <mxCell id="KMeHAnd6bFp7Z-bjCFdS-35" value="Auth Request" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="KMeHAnd6bFp7Z-bjCFdS-1">
+          <mxGeometry x="284" y="152" width="90" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="KMeHAnd6bFp7Z-bjCFdS-36" value="Auth Response" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="KMeHAnd6bFp7Z-bjCFdS-1">
           <mxGeometry x="410" y="128" width="100" height="20" as="geometry"/>
@@ -243,15 +234,6 @@
         <mxCell id="ZojFhxYUfb2LPnEnc_l0-10" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.smartphone;" vertex="1" parent="ZojFhxYUfb2LPnEnc_l0-1">
           <mxGeometry x="340" y="438" width="40" height="42" as="geometry"/>
         </mxCell>
-        <mxCell id="ZojFhxYUfb2LPnEnc_l0-11" value="listen on defined, socket/port" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="ZojFhxYUfb2LPnEnc_l0-1">
-          <mxGeometry x="45" y="168" width="170" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="ZojFhxYUfb2LPnEnc_l0-12" value="file transfer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="ZojFhxYUfb2LPnEnc_l0-1">
-          <mxGeometry x="90" y="233" width="80" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="ZojFhxYUfb2LPnEnc_l0-13" value="Or" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="ZojFhxYUfb2LPnEnc_l0-1">
-          <mxGeometry x="110" y="203" width="30" height="20" as="geometry"/>
-        </mxCell>
         <mxCell id="ZojFhxYUfb2LPnEnc_l0-15" value="WorldPay Cloud" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="ZojFhxYUfb2LPnEnc_l0-1">
           <mxGeometry x="301" y="31" width="174" height="222" as="geometry"/>
         </mxCell>
@@ -265,7 +247,7 @@
           <mxGeometry x="200" y="323" width="80" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="ZojFhxYUfb2LPnEnc_l0-20" value="Payment Request" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="ZojFhxYUfb2LPnEnc_l0-1">
-          <mxGeometry x="179" y="288" width="110" height="20" as="geometry"/>
+          <mxGeometry x="170" y="240" width="110" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="ZojFhxYUfb2LPnEnc_l0-23" value="Payment Request" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="ZojFhxYUfb2LPnEnc_l0-1">
           <mxGeometry x="289" y="298" width="110" height="20" as="geometry"/>
