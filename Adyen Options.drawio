@@ -1,4 +1,4 @@
-<mxfile modified="2019-12-11T12:40:31.021Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="hgBVU5VIe2eVfshKC4s7" version="12.3.9" type="github" pages="6">
+<mxfile modified="2019-12-11T13:05:08.596Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="K8OSpvsytetRSMzpdEMr" version="12.3.9" type="github" pages="6">
   <diagram id="xIO0eBuTLFJMR7J9Bv1W" name="As -Is Cash">
     <mxGraphModel dx="2276" dy="1798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -458,41 +458,83 @@
       <root>
         <mxCell id="q_QYkG-2EgTtvZhn5XjH-0"/>
         <mxCell id="q_QYkG-2EgTtvZhn5XjH-1" parent="q_QYkG-2EgTtvZhn5XjH-0"/>
-        <mxCell id="QJyyDChVIwj_dbhJ9l0v-4" value="&lt;span style=&quot;font-size: 16px&quot;&gt;WorldPay IPC Instance #1&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="q_QYkG-2EgTtvZhn5XjH-1">
-          <mxGeometry x="130" y="340" width="120" height="100" as="geometry"/>
-        </mxCell>
         <mxCell id="QJyyDChVIwj_dbhJ9l0v-0" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="q_QYkG-2EgTtvZhn5XjH-1">
           <mxGeometry x="5" y="130" width="25" height="550" as="geometry"/>
         </mxCell>
         <mxCell id="QJyyDChVIwj_dbhJ9l0v-1" value="&lt;font style=&quot;font-size: 16px&quot;&gt;SAP&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="q_QYkG-2EgTtvZhn5XjH-1">
           <mxGeometry x="230" y="150" width="230" height="160" as="geometry"/>
         </mxCell>
-        <mxCell id="QJyyDChVIwj_dbhJ9l0v-3" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Server_128x128.png" vertex="1" parent="q_QYkG-2EgTtvZhn5XjH-1">
-          <mxGeometry x="150" y="370" width="80" height="80" as="geometry"/>
+        <mxCell id="Wg_rqYmpcRAeHujquZjF-4" value="" style="group" vertex="1" connectable="0" parent="q_QYkG-2EgTtvZhn5XjH-1">
+          <mxGeometry x="80" y="475" width="130" height="109" as="geometry"/>
         </mxCell>
-        <mxCell id="QJyyDChVIwj_dbhJ9l0v-5" value="&lt;span style=&quot;font-size: 16px&quot;&gt;WorldPay IPC Instance #2&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="q_QYkG-2EgTtvZhn5XjH-1">
-          <mxGeometry x="270" y="340" width="120" height="100" as="geometry"/>
+        <mxCell id="Wg_rqYmpcRAeHujquZjF-3" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="Wg_rqYmpcRAeHujquZjF-4">
+          <mxGeometry width="130" height="109" as="geometry"/>
         </mxCell>
-        <mxCell id="QJyyDChVIwj_dbhJ9l0v-6" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Server_128x128.png" vertex="1" parent="q_QYkG-2EgTtvZhn5XjH-1">
-          <mxGeometry x="290" y="370" width="80" height="80" as="geometry"/>
+        <mxCell id="Wg_rqYmpcRAeHujquZjF-0" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_android_proportional;fontColor=#858585;" vertex="1" parent="Wg_rqYmpcRAeHujquZjF-4">
+          <mxGeometry x="10" y="19" width="30" height="62" as="geometry"/>
         </mxCell>
-        <mxCell id="QJyyDChVIwj_dbhJ9l0v-7" value="&lt;span style=&quot;font-size: 16px&quot;&gt;WorldPay IPC Instance #n&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="q_QYkG-2EgTtvZhn5XjH-1">
-          <mxGeometry x="405" y="340" width="120" height="100" as="geometry"/>
+        <mxCell id="Wg_rqYmpcRAeHujquZjF-1" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_android_proportional;fontColor=#858585;" vertex="1" parent="Wg_rqYmpcRAeHujquZjF-4">
+          <mxGeometry x="90" y="19" width="30" height="62" as="geometry"/>
         </mxCell>
-        <mxCell id="QJyyDChVIwj_dbhJ9l0v-8" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Server_128x128.png" vertex="1" parent="q_QYkG-2EgTtvZhn5XjH-1">
-          <mxGeometry x="425" y="370" width="80" height="80" as="geometry"/>
+        <mxCell id="Wg_rqYmpcRAeHujquZjF-2" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="Wg_rqYmpcRAeHujquZjF-4">
+          <mxGeometry x="40" y="25" width="50" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="Wg_rqYmpcRAeHujquZjF-0" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_android_proportional;fontColor=#858585;" vertex="1" parent="q_QYkG-2EgTtvZhn5XjH-1">
-          <mxGeometry x="130" y="490" width="30" height="62" as="geometry"/>
+        <mxCell id="Wg_rqYmpcRAeHujquZjF-5" value="" style="group" vertex="1" connectable="0" parent="q_QYkG-2EgTtvZhn5XjH-1">
+          <mxGeometry x="270" y="475" width="130" height="109" as="geometry"/>
         </mxCell>
-        <mxCell id="Wg_rqYmpcRAeHujquZjF-1" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_android_proportional;fontColor=#858585;" vertex="1" parent="q_QYkG-2EgTtvZhn5XjH-1">
-          <mxGeometry x="210" y="490" width="30" height="62" as="geometry"/>
+        <mxCell id="Wg_rqYmpcRAeHujquZjF-6" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="Wg_rqYmpcRAeHujquZjF-5">
+          <mxGeometry width="130" height="109" as="geometry"/>
         </mxCell>
-        <mxCell id="Wg_rqYmpcRAeHujquZjF-2" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="q_QYkG-2EgTtvZhn5XjH-1">
-          <mxGeometry x="160" y="496" width="50" height="50" as="geometry"/>
+        <mxCell id="Wg_rqYmpcRAeHujquZjF-7" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_android_proportional;fontColor=#858585;" vertex="1" parent="Wg_rqYmpcRAeHujquZjF-5">
+          <mxGeometry x="10" y="19" width="30" height="62" as="geometry"/>
         </mxCell>
-        <mxCell id="Wg_rqYmpcRAeHujquZjF-3" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="q_QYkG-2EgTtvZhn5XjH-1">
-          <mxGeometry x="285" y="546" width="120" height="100" as="geometry"/>
+        <mxCell id="Wg_rqYmpcRAeHujquZjF-8" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_android_proportional;fontColor=#858585;" vertex="1" parent="Wg_rqYmpcRAeHujquZjF-5">
+          <mxGeometry x="90" y="19" width="30" height="62" as="geometry"/>
+        </mxCell>
+        <mxCell id="Wg_rqYmpcRAeHujquZjF-9" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="Wg_rqYmpcRAeHujquZjF-5">
+          <mxGeometry x="40" y="25" width="50" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="Wg_rqYmpcRAeHujquZjF-10" value="" style="group" vertex="1" connectable="0" parent="q_QYkG-2EgTtvZhn5XjH-1">
+          <mxGeometry x="440" y="475" width="130" height="109" as="geometry"/>
+        </mxCell>
+        <mxCell id="Wg_rqYmpcRAeHujquZjF-11" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="Wg_rqYmpcRAeHujquZjF-10">
+          <mxGeometry width="130" height="109" as="geometry"/>
+        </mxCell>
+        <mxCell id="Wg_rqYmpcRAeHujquZjF-12" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_android_proportional;fontColor=#858585;" vertex="1" parent="Wg_rqYmpcRAeHujquZjF-10">
+          <mxGeometry x="10" y="19" width="30" height="62" as="geometry"/>
+        </mxCell>
+        <mxCell id="Wg_rqYmpcRAeHujquZjF-13" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_android_proportional;fontColor=#858585;" vertex="1" parent="Wg_rqYmpcRAeHujquZjF-10">
+          <mxGeometry x="90" y="19" width="30" height="62" as="geometry"/>
+        </mxCell>
+        <mxCell id="Wg_rqYmpcRAeHujquZjF-14" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="Wg_rqYmpcRAeHujquZjF-10">
+          <mxGeometry x="40" y="25" width="50" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="Wg_rqYmpcRAeHujquZjF-15" value="" style="group" vertex="1" connectable="0" parent="q_QYkG-2EgTtvZhn5XjH-1">
+          <mxGeometry x="440" y="340" width="120" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="QJyyDChVIwj_dbhJ9l0v-7" value="&lt;span style=&quot;font-size: 16px&quot;&gt;WorldPay IPC Instance #n&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="Wg_rqYmpcRAeHujquZjF-15">
+          <mxGeometry width="120" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="QJyyDChVIwj_dbhJ9l0v-8" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Server_128x128.png" vertex="1" parent="Wg_rqYmpcRAeHujquZjF-15">
+          <mxGeometry x="20" y="30" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="Wg_rqYmpcRAeHujquZjF-16" value="" style="group" vertex="1" connectable="0" parent="q_QYkG-2EgTtvZhn5XjH-1">
+          <mxGeometry x="103" y="340" width="120" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="QJyyDChVIwj_dbhJ9l0v-4" value="&lt;span style=&quot;font-size: 16px&quot;&gt;WorldPay IPC Instance #1&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="Wg_rqYmpcRAeHujquZjF-16">
+          <mxGeometry width="120" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="QJyyDChVIwj_dbhJ9l0v-3" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Server_128x128.png" vertex="1" parent="Wg_rqYmpcRAeHujquZjF-16">
+          <mxGeometry x="20" y="30" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="Wg_rqYmpcRAeHujquZjF-17" value="" style="group" vertex="1" connectable="0" parent="q_QYkG-2EgTtvZhn5XjH-1">
+          <mxGeometry x="270" y="340" width="120" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="QJyyDChVIwj_dbhJ9l0v-5" value="&lt;span style=&quot;font-size: 16px&quot;&gt;WorldPay IPC Instance #2&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="Wg_rqYmpcRAeHujquZjF-17">
+          <mxGeometry width="120" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="QJyyDChVIwj_dbhJ9l0v-6" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Server_128x128.png" vertex="1" parent="Wg_rqYmpcRAeHujquZjF-17">
+          <mxGeometry x="20" y="30" width="80" height="80" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
