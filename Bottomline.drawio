@@ -1,11 +1,11 @@
-<mxfile modified="2020-01-23T15:04:09.684Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="jLLOX-6gO0Z1oGQJC04f" version="12.5.6" type="github" pages="6">
+<mxfile modified="2020-01-23T16:24:30.740Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="zM0pX3JYf62HoyQKmjDh" version="12.5.6" type="github" pages="6">
   <diagram name="Bottomline- Start" id="0WiYs2uDSN9r_ez0LBsD">
-    <mxGraphModel dx="2889" dy="1109" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2036" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="5QDhFZ3FKF-D9TqPaspZ-0"/>
         <mxCell id="5QDhFZ3FKF-D9TqPaspZ-1" parent="5QDhFZ3FKF-D9TqPaspZ-0"/>
         <mxCell id="5QDhFZ3FKF-D9TqPaspZ-2" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Nobia Network&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;align=left;" parent="5QDhFZ3FKF-D9TqPaspZ-1" vertex="1">
-          <mxGeometry x="-29" y="290" width="840" height="580" as="geometry"/>
+          <mxGeometry x="-29" y="290" width="779" height="580" as="geometry"/>
         </mxCell>
         <mxCell id="5QDhFZ3FKF-D9TqPaspZ-7" value="SAP ECC" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="5QDhFZ3FKF-D9TqPaspZ-1" vertex="1">
           <mxGeometry x="-20" y="664" width="170" height="90" as="geometry"/>
