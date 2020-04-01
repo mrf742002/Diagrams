@@ -1,4 +1,4 @@
-<mxfile modified="2020-04-01T09:43:28.173Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Safari/537.36" etag="DpHjiIBYRE-SIMj4MUIe" version="12.9.3" type="github" pages="6">
+<mxfile modified="2020-04-01T09:45:38.523Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Safari/537.36" etag="7isBCFCKboDxtfTfonyy" version="12.9.3" type="github" pages="6">
   <diagram id="xIO0eBuTLFJMR7J9Bv1W" name="As -Is Cash">
     <mxGraphModel dx="2249" dy="1943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
           <mxGeometry x="-3.5" y="62" width="47" height="47" as="geometry" />
         </mxCell>
         <mxCell id="TDyOzgDBT0jTo_tiXd7O-12" value="Adyen Payment Services" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="570" y="-560" width="343" height="230" as="geometry" />
+          <mxGeometry x="520" y="-640" width="343" height="230" as="geometry" />
         </mxCell>
         <mxCell id="TDyOzgDBT0jTo_tiXd7O-15" value="&amp;nbsp;Cash Box" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="44" y="360" width="466" height="100" as="geometry" />
