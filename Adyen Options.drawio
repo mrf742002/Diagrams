@@ -1,4 +1,4 @@
-<mxfile modified="2020-04-02T14:29:35.495Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Safari/537.36" etag="dI3v478zn9AbOeViA8Zi" version="12.9.6" type="github" pages="6">
+<mxfile modified="2020-04-02T14:52:57.448Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Safari/537.36" etag="0fsH-N8LJ70-tGpaaTgu" version="12.9.6" type="github" pages="6">
   <diagram id="xIO0eBuTLFJMR7J9Bv1W" name="As -Is Cash">
     <mxGraphModel dx="2169" dy="1756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -129,11 +129,8 @@
         <mxCell id="frtibMboyv9ZKoLcJmEE-15" value="SAP Finance" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="40" y="610" width="530" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="frtibMboyv9ZKoLcJmEE-16" value="GL" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="134" y="650" width="126" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="frtibMboyv9ZKoLcJmEE-17" value="Accounts Receivable" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="650" width="126" height="60" as="geometry" />
+          <mxGeometry x="244" y="650" width="126" height="60" as="geometry" />
         </mxCell>
         <mxCell id="frtibMboyv9ZKoLcJmEE-18" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Warren&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="597" y="79" width="230" height="131" as="geometry" />
