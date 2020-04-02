@@ -1,23 +1,23 @@
-<mxfile modified="2020-04-01T09:45:38.523Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Safari/537.36" etag="7isBCFCKboDxtfTfonyy" version="12.9.3" type="github" pages="6">
+<mxfile modified="2020-04-02T12:52:03.481Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Safari/537.36" etag="_waP9VeIJLSsX6ZGCcNU" version="12.9.6" type="github" pages="6">
   <diagram id="xIO0eBuTLFJMR7J9Bv1W" name="As -Is Cash">
     <mxGraphModel dx="2249" dy="1943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="frtibMboyv9ZKoLcJmEE-11" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Nobia Network&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="frtibMboyv9ZKoLcJmEE-11" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Nobia Network&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="-190" y="30" width="1440" height="790" as="geometry" />
         </mxCell>
         <mxCell id="TDyOzgDBT0jTo_tiXd7O-13" value="&lt;font style=&quot;font-size: 16px&quot;&gt;SAP&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="20" y="200" width="520" height="570" as="geometry" />
         </mxCell>
-        <mxCell id="frtibMboyv9ZKoLcJmEE-14" value="&lt;span style=&quot;font-size: 16px&quot;&gt;iTelligence Customisation&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="frtibMboyv9ZKoLcJmEE-14" value="&lt;span style=&quot;font-size: 16px&quot;&gt;iTelligence Customisation&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="30.5" y="242.5" width="489.5" height="227.5" as="geometry" />
         </mxCell>
-        <mxCell id="frtibMboyv9ZKoLcJmEE-13" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Adyen Services&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="frtibMboyv9ZKoLcJmEE-13" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Adyen Services&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="180" y="-690" width="1060" height="690" as="geometry" />
         </mxCell>
-        <mxCell id="frtibMboyv9ZKoLcJmEE-6" value="&lt;span style=&quot;font-size: 16px&quot;&gt;Adyen Hosted Apps&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="923" y="-320" width="257" height="270" as="geometry" />
+        <mxCell id="frtibMboyv9ZKoLcJmEE-6" value="&lt;span style=&quot;font-size: 16px&quot;&gt;Adyen Hosted Apps&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="200" y="-170" width="980" height="120" as="geometry" />
         </mxCell>
         <mxCell id="TDyOzgDBT0jTo_tiXd7O-4" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_android_proportional;fontColor=#858585;" parent="1" vertex="1">
           <mxGeometry x="-150" y="113" width="44" height="82" as="geometry" />
@@ -34,8 +34,14 @@
         <mxCell id="TDyOzgDBT0jTo_tiXd7O-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/basic-ui-2-line/32/monitor-personal-computer-pc-desktop-128.png;fontColor=#545454;" parent="1" vertex="1">
           <mxGeometry x="-3.5" y="62" width="47" height="47" as="geometry" />
         </mxCell>
+        <mxCell id="clGUQOmlezsDE1Nbsah8-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TDyOzgDBT0jTo_tiXd7O-12" target="frtibMboyv9ZKoLcJmEE-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="clGUQOmlezsDE1Nbsah8-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.96;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.218;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TDyOzgDBT0jTo_tiXd7O-12" target="frtibMboyv9ZKoLcJmEE-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TDyOzgDBT0jTo_tiXd7O-12" value="Adyen Payment Services" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="-640" width="343" height="230" as="geometry" />
+          <mxGeometry x="500" y="-640" width="383.5" height="230" as="geometry" />
         </mxCell>
         <mxCell id="TDyOzgDBT0jTo_tiXd7O-15" value="&amp;nbsp;Cash Box" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="44" y="360" width="466" height="100" as="geometry" />
@@ -70,38 +76,55 @@
         <mxCell id="TDyOzgDBT0jTo_tiXd7O-43" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;7&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="155.5" y="240" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="frtibMboyv9ZKoLcJmEE-1" value="CashDevices" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="frtibMboyv9ZKoLcJmEE-1" value="CashDevices" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="84.5" y="290" width="125.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="frtibMboyv9ZKoLcJmEE-4" value="&lt;font style=&quot;font-size: 16px&quot;&gt;EPIServer&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="frtibMboyv9ZKoLcJmEE-4" value="&lt;font style=&quot;font-size: 16px&quot;&gt;EPIServer&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="920" y="70" width="270" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="frtibMboyv9ZKoLcJmEE-5" value="&lt;span style=&quot;font-size: 16px&quot;&gt;Hosted Payment Page&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="948" y="-140" width="202" height="50" as="geometry" />
+        <mxCell id="clGUQOmlezsDE1Nbsah8-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.875;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="frtibMboyv9ZKoLcJmEE-5" target="TDyOzgDBT0jTo_tiXd7O-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1049" y="-120" />
+              <mxPoint x="1049" y="-525" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="frtibMboyv9ZKoLcJmEE-9" value="&lt;span style=&quot;font-size: 16px&quot;&gt;Admin Portal/ Backend&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="948" y="-260" width="192" height="50" as="geometry" />
+        <mxCell id="frtibMboyv9ZKoLcJmEE-5" value="&lt;span style=&quot;font-size: 16px&quot;&gt;Hosted Payment Page&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="948" y="-120" width="202" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="frtibMboyv9ZKoLcJmEE-10" value="&lt;span style=&quot;font-size: 16px&quot;&gt;Adyen API&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="260" y="-220" width="500" height="170" as="geometry" />
+        <mxCell id="clGUQOmlezsDE1Nbsah8-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="frtibMboyv9ZKoLcJmEE-9" target="frtibMboyv9ZKoLcJmEE-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="frtibMboyv9ZKoLcJmEE-12" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Magnet Trade Website&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="frtibMboyv9ZKoLcJmEE-9" value="&lt;span style=&quot;font-size: 16px&quot;&gt;Admin Portal/ Backend&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="614" y="-120" width="192" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="clGUQOmlezsDE1Nbsah8-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="frtibMboyv9ZKoLcJmEE-12" target="frtibMboyv9ZKoLcJmEE-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="frtibMboyv9ZKoLcJmEE-12" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Magnet Trade Website&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="967" y="105" width="176" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="frtibMboyv9ZKoLcJmEE-15" value="SAP Finance" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="frtibMboyv9ZKoLcJmEE-15" value="SAP Finance" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="40" y="610" width="470" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="frtibMboyv9ZKoLcJmEE-16" value="GL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="frtibMboyv9ZKoLcJmEE-16" value="GL" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="134" y="650" width="126" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="frtibMboyv9ZKoLcJmEE-17" value="Accounts Receivable" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="frtibMboyv9ZKoLcJmEE-17" value="Accounts Receivable" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="650" width="126" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="frtibMboyv9ZKoLcJmEE-18" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Legacy Server (check with Kev)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="frtibMboyv9ZKoLcJmEE-18" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Warren&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="597" y="79" width="230" height="131" as="geometry" />
         </mxCell>
-        <mxCell id="frtibMboyv9ZKoLcJmEE-19" value="Settlement File script" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="647" y="120" width="125.5" height="50" as="geometry" />
+        <mxCell id="clGUQOmlezsDE1Nbsah8-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="frtibMboyv9ZKoLcJmEE-19" target="frtibMboyv9ZKoLcJmEE-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="frtibMboyv9ZKoLcJmEE-19" value="Settlement File script- Check name with Kev" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="639" y="120" width="143" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="clGUQOmlezsDE1Nbsah8-7" value="&lt;span style=&quot;font-size: 16px&quot;&gt;API&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="276" y="-120" width="192" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
