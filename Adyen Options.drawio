@@ -1,4 +1,4 @@
-<mxfile modified="2020-04-07T13:16:02.421Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="n35p9rLKAWsxGPyuaEFa" version="12.9.8" type="github" pages="6">
+<mxfile modified="2020-04-07T13:17:05.947Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="tTfLOwI9GME3tp7Zr2Xq" version="12.9.8" type="github" pages="6">
   <diagram id="xIO0eBuTLFJMR7J9Bv1W" name="As -Is Cash">
     <mxGraphModel dx="1929" dy="1790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -187,7 +187,7 @@
         <mxCell id="Z-GvxzGGPOKfhGMBgcn_-18" value="Approval" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.079;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;fontSize=12;" edge="1" parent="1" source="clGUQOmlezsDE1Nbsah8-9" target="clGUQOmlezsDE1Nbsah8-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="clGUQOmlezsDE1Nbsah8-9" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Payment&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="clGUQOmlezsDE1Nbsah8-9" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Payment&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="89" y="-115" width="117.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="clGUQOmlezsDE1Nbsah8-33" value="Approval" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=12;" parent="1" source="clGUQOmlezsDE1Nbsah8-10" target="clGUQOmlezsDE1Nbsah8-11" edge="1">
@@ -202,7 +202,7 @@
         <mxCell id="Z-GvxzGGPOKfhGMBgcn_-14" value="Auth Req" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.154;entryY=1.032;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;" edge="1" parent="1" source="clGUQOmlezsDE1Nbsah8-10" target="clGUQOmlezsDE1Nbsah8-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="clGUQOmlezsDE1Nbsah8-10" value="&lt;span style=&quot;font-size: 16px&quot;&gt;CancelOrRefund&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="clGUQOmlezsDE1Nbsah8-10" value="&lt;font style=&quot;font-size: 12px&quot;&gt;CancelOrRefund&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240.5" y="-115" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="clGUQOmlezsDE1Nbsah8-32" value="Cancellation&lt;br style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;Req" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="clGUQOmlezsDE1Nbsah8-11" target="clGUQOmlezsDE1Nbsah8-10" edge="1">
