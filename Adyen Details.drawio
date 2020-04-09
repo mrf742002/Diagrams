@@ -1,4 +1,4 @@
-<mxfile modified="2020-04-09T10:26:57.515Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="CQRlQ3NpJJKZ0Q5tsuA4" version="12.9.10" type="github" pages="7">
+<mxfile modified="2020-04-09T10:48:01.202Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="hPvCJLjr_6fryixOs3ZI" version="12.9.10" type="github" pages="7">
   <diagram id="RjkxmkEopPdwJjOFWVJs" name="Card- PED">
     <mxGraphModel dx="1929" dy="1790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -195,74 +195,77 @@
         <mxCell id="7bWO26oXhswTV0XEZxAW-13" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;12&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" parent="MC29oDFD4sYGNXnbfmlz-1" vertex="1">
           <mxGeometry x="35" y="530" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DgZNfVGJJo20ZgL_VrqI-25" value="" style="group;fontSize=17;" vertex="1" connectable="0" parent="MC29oDFD4sYGNXnbfmlz-1">
-          <mxGeometry x="340" y="-360" width="420" height="810" as="geometry" />
+        <mxCell id="DgZNfVGJJo20ZgL_VrqI-0" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;1&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="MC29oDFD4sYGNXnbfmlz-1">
+          <mxGeometry x="340" y="-360" width="36.26865671641791" height="36.26865671641791" as="geometry" />
         </mxCell>
-        <mxCell id="DgZNfVGJJo20ZgL_VrqI-0" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;1&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="DgZNfVGJJo20ZgL_VrqI-25">
-          <mxGeometry width="36.26865671641791" height="36.26865671641791" as="geometry" />
+        <mxCell id="DgZNfVGJJo20ZgL_VrqI-2" value="The SAP user selects the &#39;Card Reader&#39; button when processing a Card Payment in the SAP Cashbox." style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="MC29oDFD4sYGNXnbfmlz-1">
+          <mxGeometry x="391.0810810810811" y="-360" width="368.9189189189189" height="60.447761194029844" as="geometry" />
         </mxCell>
-        <mxCell id="DgZNfVGJJo20ZgL_VrqI-2" value="The SAP user selects the &#39;Card Reader&#39; button when processing a Card Payment in the SAP Cashbox." style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="DgZNfVGJJo20ZgL_VrqI-25">
-          <mxGeometry x="51.08108108108108" width="368.9189189189189" height="60.447761194029844" as="geometry" />
+        <mxCell id="DgZNfVGJJo20ZgL_VrqI-3" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;2&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="MC29oDFD4sYGNXnbfmlz-1">
+          <mxGeometry x="340" y="-287.46268656716416" width="36.26865671641791" height="36.26865671641791" as="geometry" />
         </mxCell>
-        <mxCell id="DgZNfVGJJo20ZgL_VrqI-3" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;2&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="DgZNfVGJJo20ZgL_VrqI-25">
-          <mxGeometry y="72.53731343283582" width="36.26865671641791" height="36.26865671641791" as="geometry" />
+        <mxCell id="DgZNfVGJJo20ZgL_VrqI-4" value="The iTelligence Cash Devices holds the relationship between the Cash register/pc and the PED and issues a command to the local install of the cash device software to wake the PED" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="MC29oDFD4sYGNXnbfmlz-1">
+          <mxGeometry x="391.0810810810811" y="-281.4179104477612" width="368.9189189189189" height="90.67164179104478" as="geometry" />
         </mxCell>
-        <mxCell id="DgZNfVGJJo20ZgL_VrqI-4" value="The iTelligence Cash Devices holds the relationship between the Cash register/pc and the PED and issues a command to the local install of the cash device software to wake the PED" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="DgZNfVGJJo20ZgL_VrqI-25">
-          <mxGeometry x="51.08108108108108" y="78.5820895522388" width="368.9189189189189" height="90.67164179104478" as="geometry" />
+        <mxCell id="DgZNfVGJJo20ZgL_VrqI-6" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;3&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="MC29oDFD4sYGNXnbfmlz-1">
+          <mxGeometry x="340" y="-183.49253731343285" width="36.26865671641791" height="36.26865671641791" as="geometry" />
         </mxCell>
-        <mxCell id="DgZNfVGJJo20ZgL_VrqI-6" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;3&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="DgZNfVGJJo20ZgL_VrqI-25">
-          <mxGeometry y="176.50746268656715" width="36.26865671641791" height="36.26865671641791" as="geometry" />
+        <mxCell id="DgZNfVGJJo20ZgL_VrqI-7" value="The Locally installed Cash Device software wakes up the PED that is connected to the designers PC" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="MC29oDFD4sYGNXnbfmlz-1">
+          <mxGeometry x="391.0810810810811" y="-183.49253731343285" width="368.9189189189189" height="53.19402985074627" as="geometry" />
         </mxCell>
-        <mxCell id="DgZNfVGJJo20ZgL_VrqI-7" value="The Locally installed Cash Device software wakes up the PED that is connected to the designers PC" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="DgZNfVGJJo20ZgL_VrqI-25">
-          <mxGeometry x="51.08108108108108" y="176.50746268656715" width="368.9189189189189" height="53.19402985074627" as="geometry" />
+        <mxCell id="DgZNfVGJJo20ZgL_VrqI-8" value="The customer presents their card and submits the payment for authorisation. The PED passes the request to the Locally installed cash device software" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="MC29oDFD4sYGNXnbfmlz-1">
+          <mxGeometry x="391.0810810810811" y="-118.20895522388062" width="368.9189189189189" height="72.53731343283582" as="geometry" />
         </mxCell>
-        <mxCell id="DgZNfVGJJo20ZgL_VrqI-8" value="The customer presents their card and submits the payment for authorisation. The PED passes the request to the Locally installed cash device software" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="DgZNfVGJJo20ZgL_VrqI-25">
-          <mxGeometry x="51.08108108108108" y="241.79104477611938" width="368.9189189189189" height="72.53731343283582" as="geometry" />
+        <mxCell id="DgZNfVGJJo20ZgL_VrqI-10" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;4&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="MC29oDFD4sYGNXnbfmlz-1">
+          <mxGeometry x="340" y="-118.20895522388062" width="36.26865671641791" height="36.26865671641791" as="geometry" />
         </mxCell>
-        <mxCell id="DgZNfVGJJo20ZgL_VrqI-10" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;4&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="DgZNfVGJJo20ZgL_VrqI-25">
-          <mxGeometry y="241.79104477611938" width="36.26865671641791" height="36.26865671641791" as="geometry" />
+        <mxCell id="DgZNfVGJJo20ZgL_VrqI-11" value="The Cash device software submits the authorisation request to Adyens Payment API" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="MC29oDFD4sYGNXnbfmlz-1">
+          <mxGeometry x="391.0810810810811" y="-21.492537313432877" width="368.9189189189189" height="48.35820895522388" as="geometry" />
         </mxCell>
-        <mxCell id="DgZNfVGJJo20ZgL_VrqI-11" value="The Cash device software submits the authorisation request to Adyens Payment API" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="DgZNfVGJJo20ZgL_VrqI-25">
-          <mxGeometry x="51.08108108108108" y="338.5074626865671" width="368.9189189189189" height="48.35820895522388" as="geometry" />
+        <mxCell id="DgZNfVGJJo20ZgL_VrqI-12" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;5&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="MC29oDFD4sYGNXnbfmlz-1">
+          <mxGeometry x="340" y="-21.492537313432877" width="36.26865671641791" height="36.26865671641791" as="geometry" />
         </mxCell>
-        <mxCell id="DgZNfVGJJo20ZgL_VrqI-12" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;5&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="DgZNfVGJJo20ZgL_VrqI-25">
-          <mxGeometry y="338.5074626865671" width="36.26865671641791" height="36.26865671641791" as="geometry" />
+        <mxCell id="DgZNfVGJJo20ZgL_VrqI-13" value="Adyens Payments API returns the Authorsiation response to the loaclly installed Cash Device software" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="MC29oDFD4sYGNXnbfmlz-1">
+          <mxGeometry x="391.0810810810811" y="111.49253731343282" width="368.9189189189189" height="48.35820895522388" as="geometry" />
         </mxCell>
-        <mxCell id="DgZNfVGJJo20ZgL_VrqI-13" value="Adyens Payments API returns the Authorsiation response to the loaclly installed Cash Device software" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="DgZNfVGJJo20ZgL_VrqI-25">
-          <mxGeometry x="51.08108108108108" y="471.4925373134328" width="368.9189189189189" height="48.35820895522388" as="geometry" />
+        <mxCell id="DgZNfVGJJo20ZgL_VrqI-14" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;6&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="MC29oDFD4sYGNXnbfmlz-1">
+          <mxGeometry x="340" y="38.955223880596975" width="36.26865671641791" height="36.26865671641791" as="geometry" />
         </mxCell>
-        <mxCell id="DgZNfVGJJo20ZgL_VrqI-14" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;6&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="DgZNfVGJJo20ZgL_VrqI-25">
-          <mxGeometry y="398.955223880597" width="36.26865671641791" height="36.26865671641791" as="geometry" />
+        <mxCell id="DgZNfVGJJo20ZgL_VrqI-15" value="Adyens Payment API submits the request to their Payment Procesing services." style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="MC29oDFD4sYGNXnbfmlz-1">
+          <mxGeometry x="391.0810810810811" y="51.04477611940297" width="368.9189189189189" height="48.35820895522388" as="geometry" />
         </mxCell>
-        <mxCell id="DgZNfVGJJo20ZgL_VrqI-15" value="Adyens Payment API submits the request to their Payment Procesing services." style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="DgZNfVGJJo20ZgL_VrqI-25">
-          <mxGeometry x="51.08108108108108" y="411.04477611940297" width="368.9189189189189" height="48.35820895522388" as="geometry" />
+        <mxCell id="DgZNfVGJJo20ZgL_VrqI-16" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;7&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="MC29oDFD4sYGNXnbfmlz-1">
+          <mxGeometry x="340" y="111.49253731343282" width="36.26865671641791" height="36.26865671641791" as="geometry" />
         </mxCell>
-        <mxCell id="DgZNfVGJJo20ZgL_VrqI-16" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;7&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="DgZNfVGJJo20ZgL_VrqI-25">
-          <mxGeometry y="471.4925373134328" width="36.26865671641791" height="36.26865671641791" as="geometry" />
+        <mxCell id="DgZNfVGJJo20ZgL_VrqI-17" value="The local installed Cash Device software returns the authorisation response to the Cash Device Itelligence SAP add on." style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="MC29oDFD4sYGNXnbfmlz-1">
+          <mxGeometry x="391.08" y="180" width="368.92" height="52.39" as="geometry" />
         </mxCell>
-        <mxCell id="DgZNfVGJJo20ZgL_VrqI-17" value="The local installed Cash Device software returns the authorisation response to the Cash Device Itelligence SAP add on." style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="DgZNfVGJJo20ZgL_VrqI-25">
-          <mxGeometry x="51.08" y="540" width="368.92" height="52.39" as="geometry" />
+        <mxCell id="DgZNfVGJJo20ZgL_VrqI-18" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;8&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="MC29oDFD4sYGNXnbfmlz-1">
+          <mxGeometry x="340" y="171.94029850746267" width="36.26865671641791" height="36.26865671641791" as="geometry" />
         </mxCell>
-        <mxCell id="DgZNfVGJJo20ZgL_VrqI-18" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;8&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="DgZNfVGJJo20ZgL_VrqI-25">
-          <mxGeometry y="531.9402985074627" width="36.26865671641791" height="36.26865671641791" as="geometry" />
+        <mxCell id="DgZNfVGJJo20ZgL_VrqI-19" value="The Cash Device add on passes the payment authorisation response to the Cash box" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="MC29oDFD4sYGNXnbfmlz-1">
+          <mxGeometry x="391.0810810810811" y="256.56716417910445" width="368.9189189189189" height="48.35820895522388" as="geometry" />
         </mxCell>
-        <mxCell id="DgZNfVGJJo20ZgL_VrqI-19" value="The Cash Device add on passes the payment authorisation response to the Cash box" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="DgZNfVGJJo20ZgL_VrqI-25">
-          <mxGeometry x="51.08108108108108" y="616.5671641791045" width="368.9189189189189" height="48.35820895522388" as="geometry" />
+        <mxCell id="DgZNfVGJJo20ZgL_VrqI-20" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;9&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="MC29oDFD4sYGNXnbfmlz-1">
+          <mxGeometry x="340" y="244.47761194029852" width="36.26865671641791" height="36.26865671641791" as="geometry" />
         </mxCell>
-        <mxCell id="DgZNfVGJJo20ZgL_VrqI-20" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;9&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="DgZNfVGJJo20ZgL_VrqI-25">
-          <mxGeometry y="604.4776119402985" width="36.26865671641791" height="36.26865671641791" as="geometry" />
+        <mxCell id="DgZNfVGJJo20ZgL_VrqI-21" value="The SAP user clicks the save button in the cash box. This action saves the payment details and sales order to the SAP database." style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="MC29oDFD4sYGNXnbfmlz-1">
+          <mxGeometry x="391.08" y="320" width="368.92" height="57.46" as="geometry" />
         </mxCell>
-        <mxCell id="DgZNfVGJJo20ZgL_VrqI-21" value="The SAP user clicks the save button in the cash box. This action saves the payment details and sales order to the SAP database." style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="DgZNfVGJJo20ZgL_VrqI-25">
-          <mxGeometry x="51.08" y="680" width="368.92" height="57.46" as="geometry" />
+        <mxCell id="DgZNfVGJJo20ZgL_VrqI-22" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;10&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="MC29oDFD4sYGNXnbfmlz-1">
+          <mxGeometry x="340" y="317.01492537313425" width="36.26865671641791" height="36.26865671641791" as="geometry" />
         </mxCell>
-        <mxCell id="DgZNfVGJJo20ZgL_VrqI-22" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;10&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="DgZNfVGJJo20ZgL_VrqI-25">
-          <mxGeometry y="677.0149253731342" width="36.26865671641791" height="36.26865671641791" as="geometry" />
+        <mxCell id="DgZNfVGJJo20ZgL_VrqI-23" value="The Save action also triggers the customer receipt print in SAP." style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="MC29oDFD4sYGNXnbfmlz-1">
+          <mxGeometry x="391.0810810810811" y="401.641791044776" width="368.9189189189189" height="48.35820895522388" as="geometry" />
         </mxCell>
-        <mxCell id="DgZNfVGJJo20ZgL_VrqI-23" value="The Save action also triggers the customer receipt print in SAP." style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="DgZNfVGJJo20ZgL_VrqI-25">
-          <mxGeometry x="51.08108108108108" y="761.641791044776" width="368.9189189189189" height="48.35820895522388" as="geometry" />
+        <mxCell id="DgZNfVGJJo20ZgL_VrqI-24" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;11&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="MC29oDFD4sYGNXnbfmlz-1">
+          <mxGeometry x="340" y="389.5522388059701" width="36.26865671641791" height="36.26865671641791" as="geometry" />
         </mxCell>
-        <mxCell id="DgZNfVGJJo20ZgL_VrqI-24" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;11&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="DgZNfVGJJo20ZgL_VrqI-25">
-          <mxGeometry y="749.5522388059701" width="36.26865671641791" height="36.26865671641791" as="geometry" />
+        <mxCell id="DgZNfVGJJo20ZgL_VrqI-49" value="The payment generates cash journals and customer postings in SAP Financials." style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="MC29oDFD4sYGNXnbfmlz-1">
+          <mxGeometry x="391.0810810810811" y="470.00179104477604" width="368.9189189189189" height="48.35820895522388" as="geometry" />
+        </mxCell>
+        <mxCell id="DgZNfVGJJo20ZgL_VrqI-50" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;12&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="MC29oDFD4sYGNXnbfmlz-1">
+          <mxGeometry x="340" y="460.0022388059701" width="36.26865671641791" height="36.26865671641791" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
