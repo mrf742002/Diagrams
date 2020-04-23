@@ -1,4 +1,4 @@
-<mxfile modified="2020-04-23T13:42:04.851Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="emQHsLAiy5HHXRyzYkNm" version="13.0.1" type="github" pages="2">
+<mxfile modified="2020-04-23T13:55:19.237Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="ydaHWSGlH_hVaC4l4cTm" version="13.0.1" type="github" pages="2">
   <diagram id="ErfE5QJ6YsigULOjhAxn" name="Payment Process Overview">
     <mxGraphModel dx="1342" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -262,8 +262,8 @@
         <mxCell id="d6ET2FCnX_ooRV6VFAHP-47" value="Approval" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.079;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;fontSize=12;" parent="d6ET2FCnX_ooRV6VFAHP-1" source="d6ET2FCnX_ooRV6VFAHP-48" target="d6ET2FCnX_ooRV6VFAHP-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d6ET2FCnX_ooRV6VFAHP-48" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Payment&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="d6ET2FCnX_ooRV6VFAHP-1" vertex="1">
-          <mxGeometry x="89" y="-115" width="117.5" height="40" as="geometry" />
+        <mxCell id="d6ET2FCnX_ooRV6VFAHP-48" value="&lt;span style=&quot;font-family: &amp;#34;fakt&amp;#34; , sans-serif , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; ; font-size: 14px&quot;&gt;Payment/v52/authorise&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="d6ET2FCnX_ooRV6VFAHP-1" vertex="1">
+          <mxGeometry x="89" y="-115" width="141" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d6ET2FCnX_ooRV6VFAHP-49" value="Approval" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=12;" parent="d6ET2FCnX_ooRV6VFAHP-1" source="d6ET2FCnX_ooRV6VFAHP-51" target="d6ET2FCnX_ooRV6VFAHP-53" edge="1">
           <mxGeometry x="-0.1613" y="3" relative="1" as="geometry">
@@ -279,7 +279,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d6ET2FCnX_ooRV6VFAHP-51" value="&lt;font style=&quot;font-size: 12px&quot;&gt;CancelOrRefund&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="d6ET2FCnX_ooRV6VFAHP-1" vertex="1">
+        <mxCell id="d6ET2FCnX_ooRV6VFAHP-51" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Payment/v52/&lt;br&gt;cancelOrRefund&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="d6ET2FCnX_ooRV6VFAHP-1" vertex="1">
           <mxGeometry x="240.5" y="-115" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d6ET2FCnX_ooRV6VFAHP-52" value="Cancellation&lt;br style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;Req" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=12;" parent="d6ET2FCnX_ooRV6VFAHP-1" source="d6ET2FCnX_ooRV6VFAHP-53" target="d6ET2FCnX_ooRV6VFAHP-51" edge="1">
@@ -365,7 +365,7 @@
             <mxPoint x="-2.51" y="9.5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d6ET2FCnX_ooRV6VFAHP-69" value="&lt;font face=&quot;calibri, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px&quot;&gt;CSE Service&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="d6ET2FCnX_ooRV6VFAHP-1" vertex="1">
+        <mxCell id="d6ET2FCnX_ooRV6VFAHP-69" value="&lt;span style=&quot;font-family: &amp;#34;fakt&amp;#34; , sans-serif , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; ; font-size: 14px&quot;&gt;Payment/v52/authorise&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="d6ET2FCnX_ooRV6VFAHP-1" vertex="1">
           <mxGeometry x="380" y="-120" width="410" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d6ET2FCnX_ooRV6VFAHP-72" value="Secure Card Data Transfer" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="d6ET2FCnX_ooRV6VFAHP-1" vertex="1">
