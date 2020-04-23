@@ -1,4 +1,4 @@
-<mxfile modified="2020-04-23T15:47:38.843Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="udQ0vHRD2YUxcq9C3CuA" version="13.0.1" type="github" pages="7">
+<mxfile modified="2020-04-23T15:57:28.473Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="FEGZLulf2iZcxeGiNioB" version="13.0.1" type="github" pages="7">
   <diagram id="RjkxmkEopPdwJjOFWVJs" name="Card- PED">
     <mxGraphModel dx="1992" dy="1706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1082,7 +1082,7 @@
     
   </diagram>
   <diagram name="Web Payments" id="YRt3PYbk5clCS3f6F1TW">
-    <mxGraphModel dx="1165" dy="1706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1503" dy="2135" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="hIFqHJm599s8H_zjjnTQ-0" />
         <mxCell id="hIFqHJm599s8H_zjjnTQ-1" parent="hIFqHJm599s8H_zjjnTQ-0" />
@@ -1155,9 +1155,6 @@
         </mxCell>
         <mxCell id="ng-4OG25lmQgqnhSPOlX-2" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;2&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="hIFqHJm599s8H_zjjnTQ-1">
           <mxGeometry x="1430" y="-294.1789552238806" width="36.26865671641791" height="36.26865671641791" as="geometry" />
-        </mxCell>
-        <mxCell id="ng-4OG25lmQgqnhSPOlX-4" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;5&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="hIFqHJm599s8H_zjjnTQ-1">
-          <mxGeometry x="340" y="-21.492537313432877" width="36.26865671641791" height="36.26865671641791" as="geometry" />
         </mxCell>
         <mxCell id="UJds30iC5IDwuOo7l8Cf-0" value="The user is presented with Payment screen. The form is Encrypted using the CSE method described in the Adyen Documentation (see the link in Supporting Documentation below for more info). The customers card details and the amount to pay are captured here." style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="hIFqHJm599s8H_zjjnTQ-1">
           <mxGeometry x="1480" y="-294.18" width="368.92" height="100" as="geometry" />
