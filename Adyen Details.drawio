@@ -1,4 +1,4 @@
-<mxfile modified="2020-04-23T13:58:00.735Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="OqJzcyEcImO2XNNdJBvs" version="13.0.1" type="github" pages="8">
+<mxfile modified="2020-04-23T14:13:57.633Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="-oyvKBqU82LYe2JsITSH" version="13.0.1" type="github" pages="8">
   <diagram id="RjkxmkEopPdwJjOFWVJs" name="Card- PED">
     <mxGraphModel dx="2169" dy="1790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -271,7 +271,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7zlEm-KXOZedDNWOJUMo" name="Card - Webservice">
-    <mxGraphModel dx="1102" dy="1790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1789" dy="1997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="PbNFZhz3fP3xXN9Vo_rw-0" />
         <mxCell id="PbNFZhz3fP3xXN9Vo_rw-1" parent="PbNFZhz3fP3xXN9Vo_rw-0" />
@@ -353,78 +353,6 @@
         <mxCell id="cT7F5UifZKuSQsFzprqv-73" value="Secure Card Data Transfer" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="PbNFZhz3fP3xXN9Vo_rw-1" vertex="1">
           <mxGeometry x="363" y="285" width="200" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="BKPpzLveUZWqYD9zZEhE-0" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;1&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="PbNFZhz3fP3xXN9Vo_rw-1">
-          <mxGeometry x="680" y="-370" width="36.26865671641791" height="36.26865671641791" as="geometry" />
-        </mxCell>
-        <mxCell id="BKPpzLveUZWqYD9zZEhE-1" value="The SAP user selects the &#39;Webinterface&#39; button when processing a Card Payment in the SAP Cashbox." style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="PbNFZhz3fP3xXN9Vo_rw-1">
-          <mxGeometry x="731.081081081081" y="-370" width="368.9189189189189" height="60.447761194029844" as="geometry" />
-        </mxCell>
-        <mxCell id="BKPpzLveUZWqYD9zZEhE-2" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;2&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="PbNFZhz3fP3xXN9Vo_rw-1">
-          <mxGeometry x="680" y="-297.46268656716416" width="36.26865671641791" height="36.26865671641791" as="geometry" />
-        </mxCell>
-        <mxCell id="BKPpzLveUZWqYD9zZEhE-3" value="The user is presented with a Secure Card Data Transfer screen. The form is Encrypted using the CSE method described in the Adyen Documentation (see the link in Supporting Documentation below for more info). The customers card details are capture here." style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="PbNFZhz3fP3xXN9Vo_rw-1">
-          <mxGeometry x="731.081081081081" y="-291.4179104477612" width="368.9189189189189" height="90.67164179104478" as="geometry" />
-        </mxCell>
-        <mxCell id="BKPpzLveUZWqYD9zZEhE-4" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;3&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="PbNFZhz3fP3xXN9Vo_rw-1">
-          <mxGeometry x="680" y="-193.49253731343285" width="36.26865671641791" height="36.26865671641791" as="geometry" />
-        </mxCell>
-        <mxCell id="BKPpzLveUZWqYD9zZEhE-5" value="A request for payment is initiated from SAP." style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="PbNFZhz3fP3xXN9Vo_rw-1">
-          <mxGeometry x="731.081081081081" y="-193.49253731343285" width="368.9189189189189" height="53.19402985074627" as="geometry" />
-        </mxCell>
-        <mxCell id="BKPpzLveUZWqYD9zZEhE-6" value="The customer presents their card and submits the payment for authorisation. The PED passes the request to the Locally installed cash device software" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="PbNFZhz3fP3xXN9Vo_rw-1">
-          <mxGeometry x="731.081081081081" y="-128.20895522388062" width="368.9189189189189" height="72.53731343283582" as="geometry" />
-        </mxCell>
-        <mxCell id="BKPpzLveUZWqYD9zZEhE-7" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;4&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="PbNFZhz3fP3xXN9Vo_rw-1">
-          <mxGeometry x="680" y="-128.20895522388062" width="36.26865671641791" height="36.26865671641791" as="geometry" />
-        </mxCell>
-        <mxCell id="BKPpzLveUZWqYD9zZEhE-8" value="The Cash device software submits the authorisation request to Adyens Payment API" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="PbNFZhz3fP3xXN9Vo_rw-1">
-          <mxGeometry x="731.081081081081" y="-31.492537313432877" width="368.9189189189189" height="48.35820895522388" as="geometry" />
-        </mxCell>
-        <mxCell id="BKPpzLveUZWqYD9zZEhE-9" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;5&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="PbNFZhz3fP3xXN9Vo_rw-1">
-          <mxGeometry x="680" y="-31.492537313432877" width="36.26865671641791" height="36.26865671641791" as="geometry" />
-        </mxCell>
-        <mxCell id="BKPpzLveUZWqYD9zZEhE-10" value="Adyens Payments API returns the Authorisation response to SAP." style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="PbNFZhz3fP3xXN9Vo_rw-1">
-          <mxGeometry x="731.081081081081" y="101.49253731343282" width="368.9189189189189" height="48.35820895522388" as="geometry" />
-        </mxCell>
-        <mxCell id="BKPpzLveUZWqYD9zZEhE-11" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;6&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="PbNFZhz3fP3xXN9Vo_rw-1">
-          <mxGeometry x="680" y="28.955223880596975" width="36.26865671641791" height="36.26865671641791" as="geometry" />
-        </mxCell>
-        <mxCell id="BKPpzLveUZWqYD9zZEhE-12" value="Adyens Payment API submits the request to their Payment Processing services." style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="PbNFZhz3fP3xXN9Vo_rw-1">
-          <mxGeometry x="731.081081081081" y="41.04477611940297" width="368.9189189189189" height="48.35820895522388" as="geometry" />
-        </mxCell>
-        <mxCell id="BKPpzLveUZWqYD9zZEhE-13" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;7&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="PbNFZhz3fP3xXN9Vo_rw-1">
-          <mxGeometry x="680" y="101.49253731343282" width="36.26865671641791" height="36.26865671641791" as="geometry" />
-        </mxCell>
-        <mxCell id="BKPpzLveUZWqYD9zZEhE-14" value="The local installed Cash Device software returns the authorisation response to the Cash Device Itelligence SAP add on." style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="PbNFZhz3fP3xXN9Vo_rw-1">
-          <mxGeometry x="731.0799999999999" y="170" width="368.92" height="52.39" as="geometry" />
-        </mxCell>
-        <mxCell id="BKPpzLveUZWqYD9zZEhE-15" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;8&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="PbNFZhz3fP3xXN9Vo_rw-1">
-          <mxGeometry x="680" y="161.94029850746267" width="36.26865671641791" height="36.26865671641791" as="geometry" />
-        </mxCell>
-        <mxCell id="BKPpzLveUZWqYD9zZEhE-16" value="The Cash Device add on passes the payment authorisation response to the Cash box" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="PbNFZhz3fP3xXN9Vo_rw-1">
-          <mxGeometry x="731.081081081081" y="246.56716417910445" width="368.9189189189189" height="48.35820895522388" as="geometry" />
-        </mxCell>
-        <mxCell id="BKPpzLveUZWqYD9zZEhE-17" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;9&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="PbNFZhz3fP3xXN9Vo_rw-1">
-          <mxGeometry x="680" y="234.47761194029852" width="36.26865671641791" height="36.26865671641791" as="geometry" />
-        </mxCell>
-        <mxCell id="BKPpzLveUZWqYD9zZEhE-18" value="The SAP user clicks the save button in the cash box. This action saves the payment details and sales order to the SAP database." style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="PbNFZhz3fP3xXN9Vo_rw-1">
-          <mxGeometry x="731.0799999999999" y="310" width="368.92" height="57.46" as="geometry" />
-        </mxCell>
-        <mxCell id="BKPpzLveUZWqYD9zZEhE-19" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;10&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="PbNFZhz3fP3xXN9Vo_rw-1">
-          <mxGeometry x="680" y="307.01492537313425" width="36.26865671641791" height="36.26865671641791" as="geometry" />
-        </mxCell>
-        <mxCell id="BKPpzLveUZWqYD9zZEhE-20" value="The Save action also triggers the customer receipt print in SAP." style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="PbNFZhz3fP3xXN9Vo_rw-1">
-          <mxGeometry x="731.081081081081" y="391.641791044776" width="368.9189189189189" height="48.35820895522388" as="geometry" />
-        </mxCell>
-        <mxCell id="BKPpzLveUZWqYD9zZEhE-21" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;11&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="PbNFZhz3fP3xXN9Vo_rw-1">
-          <mxGeometry x="680" y="379.5522388059701" width="36.26865671641791" height="36.26865671641791" as="geometry" />
-        </mxCell>
-        <mxCell id="BKPpzLveUZWqYD9zZEhE-22" value="The payment generates cash journals and customer postings in SAP Financials." style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="PbNFZhz3fP3xXN9Vo_rw-1">
-          <mxGeometry x="731.081081081081" y="460.00179104477604" width="368.9189189189189" height="48.35820895522388" as="geometry" />
-        </mxCell>
-        <mxCell id="BKPpzLveUZWqYD9zZEhE-23" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;12&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="PbNFZhz3fP3xXN9Vo_rw-1">
-          <mxGeometry x="680" y="450.0022388059701" width="36.26865671641791" height="36.26865671641791" as="geometry" />
-        </mxCell>
         <mxCell id="gqBkdKlkwr22uIvObDve-1" value="" style="group" vertex="1" connectable="0" parent="PbNFZhz3fP3xXN9Vo_rw-1">
           <mxGeometry x="271.07" y="-270" width="338.93" height="340" as="geometry" />
         </mxCell>
@@ -457,6 +385,12 @@
         <mxCell id="wReWU5TGwDxOBW6HN5ZU-0" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;" parent="gqBkdKlkwr22uIvObDve-1" vertex="1">
           <mxGeometry width="128.93" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="gqBkdKlkwr22uIvObDve-5" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;4&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="gqBkdKlkwr22uIvObDve-1">
+          <mxGeometry x="68.93" y="103.73104477611938" width="36.26865671641791" height="36.26865671641791" as="geometry" />
+        </mxCell>
+        <mxCell id="gqBkdKlkwr22uIvObDve-6" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;5&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="gqBkdKlkwr22uIvObDve-1">
+          <mxGeometry x="248.93" y="183.73104477611938" width="36.26865671641791" height="36.26865671641791" as="geometry" />
+        </mxCell>
         <mxCell id="cT7F5UifZKuSQsFzprqv-72" value="Auth Req" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fontSize=12;" parent="PbNFZhz3fP3xXN9Vo_rw-1" target="cT7F5UifZKuSQsFzprqv-44" edge="1">
           <mxGeometry x="0.4163" relative="1" as="geometry">
             <mxPoint x="427.5" y="-65" as="targetPoint" />
@@ -471,6 +405,93 @@
           <mxGeometry x="0.0014" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="gqBkdKlkwr22uIvObDve-2" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;1&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="PbNFZhz3fP3xXN9Vo_rw-1">
+          <mxGeometry x="360.73" y="370" width="36.26865671641791" height="36.26865671641791" as="geometry" />
+        </mxCell>
+        <mxCell id="gqBkdKlkwr22uIvObDve-3" value="&lt;span style=&quot;font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%2018px%26quot%3B%26gt%3B%26lt%3Bb%26gt%3B1%26lt%3B%2Fb%26gt%3B%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Baspect%3Dfixed%3BstrokeColor%3D%23FFFFFF%3BfillColor%3D%23B3B3B3%3BfontSize%3D20%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22360.73%22%20y%3D%22370%22%20width%3D%2236.26865671641791%22%20height%3D%2236.26865671641791%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;2&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%2018px%26quot%3B%26gt%3B%26lt%3Bb%26gt%3B1%26lt%3B%2Fb%26gt%3B%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Baspect%3Dfixed%3BstrokeColor%3D%23FFFFFF%3BfillColor%3D%23B3B3B3%3BfontSize%3D20%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22360.73%22%20y%3D%22370%22%20width%3D%2236.26865671641791%22%20height%3D%2236.26865671641791%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="PbNFZhz3fP3xXN9Vo_rw-1">
+          <mxGeometry x="340" y="275.37" width="36.26865671641791" height="36.26865671641791" as="geometry" />
+        </mxCell>
+        <mxCell id="gqBkdKlkwr22uIvObDve-4" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;3&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="PbNFZhz3fP3xXN9Vo_rw-1">
+          <mxGeometry x="395" y="53.129999999999995" width="36.26865671641791" height="36.26865671641791" as="geometry" />
+        </mxCell>
+        <mxCell id="gqBkdKlkwr22uIvObDve-8" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;6&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="PbNFZhz3fP3xXN9Vo_rw-1">
+          <mxGeometry x="520" y="199.995223880597" width="36.26865671641791" height="36.26865671641791" as="geometry" />
+        </mxCell>
+        <mxCell id="gqBkdKlkwr22uIvObDve-9" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;7&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="PbNFZhz3fP3xXN9Vo_rw-1">
+          <mxGeometry x="510" y="330.0025373134328" width="36.26865671641791" height="36.26865671641791" as="geometry" />
+        </mxCell>
+        <mxCell id="gqBkdKlkwr22uIvObDve-11" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;8&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="PbNFZhz3fP3xXN9Vo_rw-1">
+          <mxGeometry x="486.73" y="470.0002985074627" width="36.26865671641791" height="36.26865671641791" as="geometry" />
+        </mxCell>
+        <mxCell id="gqBkdKlkwr22uIvObDve-12" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;9&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="PbNFZhz3fP3xXN9Vo_rw-1">
+          <mxGeometry x="233.73000000000002" y="353.7276119402985" width="36.26865671641791" height="36.26865671641791" as="geometry" />
+        </mxCell>
+        <mxCell id="gqBkdKlkwr22uIvObDve-13" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;10&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="PbNFZhz3fP3xXN9Vo_rw-1">
+          <mxGeometry x="520" y="620.0049253731343" width="36.26865671641791" height="36.26865671641791" as="geometry" />
+        </mxCell>
+        <mxCell id="gqBkdKlkwr22uIvObDve-14" value="" style="group" vertex="1" connectable="0" parent="PbNFZhz3fP3xXN9Vo_rw-1">
+          <mxGeometry x="640" y="-250" width="420" height="668.3599999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="BKPpzLveUZWqYD9zZEhE-0" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;1&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="gqBkdKlkwr22uIvObDve-14">
+          <mxGeometry width="36.26865671641791" height="36.26865671641791" as="geometry" />
+        </mxCell>
+        <mxCell id="BKPpzLveUZWqYD9zZEhE-1" value="The SAP user selects the &#39;Webinterface&#39; button when processing a Card Payment in the SAP Cashbox." style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="gqBkdKlkwr22uIvObDve-14">
+          <mxGeometry x="51.08108108108104" width="368.9189189189189" height="60.447761194029844" as="geometry" />
+        </mxCell>
+        <mxCell id="BKPpzLveUZWqYD9zZEhE-2" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;2&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="gqBkdKlkwr22uIvObDve-14">
+          <mxGeometry y="72.53731343283584" width="36.26865671641791" height="36.26865671641791" as="geometry" />
+        </mxCell>
+        <mxCell id="BKPpzLveUZWqYD9zZEhE-3" value="The user is presented with a Secure Card Data Transfer screen. The form is Encrypted using the CSE method described in the Adyen Documentation (see the link in Supporting Documentation below for more info). The customers card details are captured here." style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="gqBkdKlkwr22uIvObDve-14">
+          <mxGeometry x="51.08108108108104" y="78.58208955223881" width="368.9189189189189" height="90.67164179104478" as="geometry" />
+        </mxCell>
+        <mxCell id="BKPpzLveUZWqYD9zZEhE-4" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;3&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="gqBkdKlkwr22uIvObDve-14">
+          <mxGeometry y="176.50746268656715" width="36.26865671641791" height="36.26865671641791" as="geometry" />
+        </mxCell>
+        <mxCell id="BKPpzLveUZWqYD9zZEhE-5" value="A request for payment is initiated from SAP." style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="gqBkdKlkwr22uIvObDve-14">
+          <mxGeometry x="51.08108108108104" y="176.50746268656715" width="368.9189189189189" height="53.19402985074627" as="geometry" />
+        </mxCell>
+        <mxCell id="BKPpzLveUZWqYD9zZEhE-7" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;4&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="gqBkdKlkwr22uIvObDve-14">
+          <mxGeometry y="241.79104477611938" width="36.26865671641791" height="36.26865671641791" as="geometry" />
+        </mxCell>
+        <mxCell id="BKPpzLveUZWqYD9zZEhE-9" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;5&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="gqBkdKlkwr22uIvObDve-14">
+          <mxGeometry y="284.10746268656715" width="36.26865671641791" height="36.26865671641791" as="geometry" />
+        </mxCell>
+        <mxCell id="BKPpzLveUZWqYD9zZEhE-10" value="Adyens Payments API returns the Authorisation response to SAP. The result is displayed to the user." style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="gqBkdKlkwr22uIvObDve-14">
+          <mxGeometry x="51.08108108108104" y="347.91253731343284" width="368.9189189189189" height="48.35820895522388" as="geometry" />
+        </mxCell>
+        <mxCell id="BKPpzLveUZWqYD9zZEhE-11" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;6&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="gqBkdKlkwr22uIvObDve-14">
+          <mxGeometry y="360.005223880597" width="36.26865671641791" height="36.26865671641791" as="geometry" />
+        </mxCell>
+        <mxCell id="BKPpzLveUZWqYD9zZEhE-12" value="Adyens Payment API submits the authorisation request to their Payment Processing services." style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="gqBkdKlkwr22uIvObDve-14">
+          <mxGeometry x="51.08108108108104" y="235.74477611940296" width="368.9189189189189" height="48.35820895522388" as="geometry" />
+        </mxCell>
+        <mxCell id="BKPpzLveUZWqYD9zZEhE-13" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;7&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="gqBkdKlkwr22uIvObDve-14">
+          <mxGeometry y="410.0025373134328" width="36.26865671641791" height="36.26865671641791" as="geometry" />
+        </mxCell>
+        <mxCell id="BKPpzLveUZWqYD9zZEhE-14" value="The transaction response is also passed to the SAP Cash Box" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="gqBkdKlkwr22uIvObDve-14">
+          <mxGeometry x="51.07999999999993" y="415.07" width="368.92" height="52.39" as="geometry" />
+        </mxCell>
+        <mxCell id="BKPpzLveUZWqYD9zZEhE-15" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;8&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="gqBkdKlkwr22uIvObDve-14">
+          <mxGeometry y="473.73029850746263" width="36.26865671641791" height="36.26865671641791" as="geometry" />
+        </mxCell>
+        <mxCell id="BKPpzLveUZWqYD9zZEhE-17" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;9&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="gqBkdKlkwr22uIvObDve-14">
+          <mxGeometry y="549.9976119402985" width="36.26865671641791" height="36.26865671641791" as="geometry" />
+        </mxCell>
+        <mxCell id="BKPpzLveUZWqYD9zZEhE-18" value="The SAP user clicks the save button in the cash box. This action saves the payment details and sales order to the SAP database." style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="gqBkdKlkwr22uIvObDve-14">
+          <mxGeometry x="51.07999999999993" y="477.27" width="368.92" height="57.46" as="geometry" />
+        </mxCell>
+        <mxCell id="BKPpzLveUZWqYD9zZEhE-19" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;10&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="gqBkdKlkwr22uIvObDve-14">
+          <mxGeometry y="618.7349253731343" width="36.26865671641791" height="36.26865671641791" as="geometry" />
+        </mxCell>
+        <mxCell id="BKPpzLveUZWqYD9zZEhE-20" value="The Save action also triggers the customer receipt print in SAP." style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="gqBkdKlkwr22uIvObDve-14">
+          <mxGeometry x="51.08108108108104" y="550.001791044776" width="368.9189189189189" height="48.35820895522388" as="geometry" />
+        </mxCell>
+        <mxCell id="BKPpzLveUZWqYD9zZEhE-22" value="The payment generates cash journals and customer postings in SAP Financials." style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="gqBkdKlkwr22uIvObDve-14">
+          <mxGeometry x="51.08108108108104" y="620.001791044776" width="368.9189189189189" height="48.35820895522388" as="geometry" />
+        </mxCell>
+        <mxCell id="gqBkdKlkwr22uIvObDve-7" value="Adyens Payment API captures the authorisation response from their Payment Processing services." style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="gqBkdKlkwr22uIvObDve-14">
+          <mxGeometry x="51.08108108108104" y="291.644776119403" width="368.9189189189189" height="48.35820895522388" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
