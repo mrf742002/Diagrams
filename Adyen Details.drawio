@@ -1,4 +1,4 @@
-<mxfile modified="2020-04-23T13:31:22.548Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="4KEvoLmnvL7zBysndt30" version="13.0.1" type="github" pages="8">
+<mxfile modified="2020-04-23T13:58:00.735Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="OqJzcyEcImO2XNNdJBvs" version="13.0.1" type="github" pages="8">
   <diagram id="RjkxmkEopPdwJjOFWVJs" name="Card- PED">
     <mxGraphModel dx="2169" dy="1790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -362,13 +362,13 @@
         <mxCell id="BKPpzLveUZWqYD9zZEhE-2" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;2&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="PbNFZhz3fP3xXN9Vo_rw-1">
           <mxGeometry x="680" y="-297.46268656716416" width="36.26865671641791" height="36.26865671641791" as="geometry" />
         </mxCell>
-        <mxCell id="BKPpzLveUZWqYD9zZEhE-3" value="The user is presented with a Secure Card Data Transfer screen." style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="PbNFZhz3fP3xXN9Vo_rw-1">
+        <mxCell id="BKPpzLveUZWqYD9zZEhE-3" value="The user is presented with a Secure Card Data Transfer screen. The form is Encrypted using the CSE method described in the Adyen Documentation (see the link in Supporting Documentation below for more info). The customers card details are capture here." style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="PbNFZhz3fP3xXN9Vo_rw-1">
           <mxGeometry x="731.081081081081" y="-291.4179104477612" width="368.9189189189189" height="90.67164179104478" as="geometry" />
         </mxCell>
         <mxCell id="BKPpzLveUZWqYD9zZEhE-4" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;3&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="PbNFZhz3fP3xXN9Vo_rw-1">
           <mxGeometry x="680" y="-193.49253731343285" width="36.26865671641791" height="36.26865671641791" as="geometry" />
         </mxCell>
-        <mxCell id="BKPpzLveUZWqYD9zZEhE-5" value="The Locally installed Cash Device software wakes up the PED that is connected to the designers PC" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="PbNFZhz3fP3xXN9Vo_rw-1">
+        <mxCell id="BKPpzLveUZWqYD9zZEhE-5" value="A request for payment is initiated from SAP." style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="PbNFZhz3fP3xXN9Vo_rw-1">
           <mxGeometry x="731.081081081081" y="-193.49253731343285" width="368.9189189189189" height="53.19402985074627" as="geometry" />
         </mxCell>
         <mxCell id="BKPpzLveUZWqYD9zZEhE-6" value="The customer presents their card and submits the payment for authorisation. The PED passes the request to the Locally installed cash device software" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="PbNFZhz3fP3xXN9Vo_rw-1">
@@ -383,13 +383,13 @@
         <mxCell id="BKPpzLveUZWqYD9zZEhE-9" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;5&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="PbNFZhz3fP3xXN9Vo_rw-1">
           <mxGeometry x="680" y="-31.492537313432877" width="36.26865671641791" height="36.26865671641791" as="geometry" />
         </mxCell>
-        <mxCell id="BKPpzLveUZWqYD9zZEhE-10" value="Adyens Payments API returns the Authorsiation response to the loaclly installed Cash Device software" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="PbNFZhz3fP3xXN9Vo_rw-1">
+        <mxCell id="BKPpzLveUZWqYD9zZEhE-10" value="Adyens Payments API returns the Authorisation response to SAP." style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="PbNFZhz3fP3xXN9Vo_rw-1">
           <mxGeometry x="731.081081081081" y="101.49253731343282" width="368.9189189189189" height="48.35820895522388" as="geometry" />
         </mxCell>
         <mxCell id="BKPpzLveUZWqYD9zZEhE-11" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;6&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="PbNFZhz3fP3xXN9Vo_rw-1">
           <mxGeometry x="680" y="28.955223880596975" width="36.26865671641791" height="36.26865671641791" as="geometry" />
         </mxCell>
-        <mxCell id="BKPpzLveUZWqYD9zZEhE-12" value="Adyens Payment API submits the request to their Payment Procesing services." style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="PbNFZhz3fP3xXN9Vo_rw-1">
+        <mxCell id="BKPpzLveUZWqYD9zZEhE-12" value="Adyens Payment API submits the request to their Payment Processing services." style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="PbNFZhz3fP3xXN9Vo_rw-1">
           <mxGeometry x="731.081081081081" y="41.04477611940297" width="368.9189189189189" height="48.35820895522388" as="geometry" />
         </mxCell>
         <mxCell id="BKPpzLveUZWqYD9zZEhE-13" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;7&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" vertex="1" parent="PbNFZhz3fP3xXN9Vo_rw-1">
@@ -434,7 +434,7 @@
         <mxCell id="cT7F5UifZKuSQsFzprqv-40" value="&lt;span style=&quot;font-size: 16px&quot;&gt;API&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="gqBkdKlkwr22uIvObDve-1" vertex="1">
           <mxGeometry x="88.93" y="220" width="230" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="cT7F5UifZKuSQsFzprqv-44" value="&lt;font face=&quot;calibri, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px&quot;&gt;CSE Integration&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="gqBkdKlkwr22uIvObDve-1" vertex="1">
+        <mxCell id="cT7F5UifZKuSQsFzprqv-44" value="&lt;span style=&quot;font-family: &amp;#34;fakt&amp;#34; , sans-serif , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; ; font-size: 14px&quot;&gt;Payment/v52/authorise&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="gqBkdKlkwr22uIvObDve-1" vertex="1">
           <mxGeometry x="128.93" y="245" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cT7F5UifZKuSQsFzprqv-57" value="&lt;span style=&quot;font-size: 16px&quot;&gt;Adyen Payment Services&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;" parent="gqBkdKlkwr22uIvObDve-1" vertex="1">
