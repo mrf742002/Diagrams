@@ -1,4 +1,4 @@
-<mxfile modified="2020-04-23T14:13:57.633Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="-oyvKBqU82LYe2JsITSH" version="13.0.1" type="github" pages="8">
+<mxfile modified="2020-04-23T14:14:31.247Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="A4arzuqcahs1KC1YDX_X" version="13.0.1" type="github" pages="8">
   <diagram id="RjkxmkEopPdwJjOFWVJs" name="Card- PED">
     <mxGraphModel dx="2169" dy="1790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -113,7 +113,7 @@
         <mxCell id="BskCayIt0p7YgBT9fa-G-2" value="Auth req" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=12;" parent="MC29oDFD4sYGNXnbfmlz-1" source="isv9NxW5xTWH9NHTK4rH-48" target="isv9NxW5xTWH9NHTK4rH-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="isv9NxW5xTWH9NHTK4rH-48" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Payment&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="MC29oDFD4sYGNXnbfmlz-1" vertex="1">
+        <mxCell id="isv9NxW5xTWH9NHTK4rH-48" value="&lt;span style=&quot;font-family: &amp;#34;fakt&amp;#34; , sans-serif , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; ; font-size: 14px&quot;&gt;Payment/v52/&lt;br&gt;authorise&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="MC29oDFD4sYGNXnbfmlz-1" vertex="1">
           <mxGeometry x="89" y="-115" width="117.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="isv9NxW5xTWH9NHTK4rH-54" value="Card Details" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="MC29oDFD4sYGNXnbfmlz-1" source="isv9NxW5xTWH9NHTK4rH-6" target="isv9NxW5xTWH9NHTK4rH-7" edge="1">
