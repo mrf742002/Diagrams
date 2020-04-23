@@ -1,4 +1,4 @@
-<mxfile modified="2020-04-23T14:14:31.247Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="A4arzuqcahs1KC1YDX_X" version="13.0.1" type="github" pages="8">
+<mxfile modified="2020-04-23T14:21:28.427Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="Qu3gfmYuIAGKjgoH_ylt" version="13.0.1" type="github" pages="8">
   <diagram id="RjkxmkEopPdwJjOFWVJs" name="Card- PED">
     <mxGraphModel dx="2169" dy="1790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -231,7 +231,7 @@
         <mxCell id="DgZNfVGJJo20ZgL_VrqI-14" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;6&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" parent="MC29oDFD4sYGNXnbfmlz-1" vertex="1">
           <mxGeometry x="340" y="38.955223880596975" width="36.26865671641791" height="36.26865671641791" as="geometry" />
         </mxCell>
-        <mxCell id="DgZNfVGJJo20ZgL_VrqI-15" value="Adyens Payment API submits the request to their Payment Procesing services." style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" parent="MC29oDFD4sYGNXnbfmlz-1" vertex="1">
+        <mxCell id="DgZNfVGJJo20ZgL_VrqI-15" value="Adyens Payment API submits the request to their Payment Processing services." style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" parent="MC29oDFD4sYGNXnbfmlz-1" vertex="1">
           <mxGeometry x="391.0810810810811" y="51.04477611940297" width="368.9189189189189" height="48.35820895522388" as="geometry" />
         </mxCell>
         <mxCell id="DgZNfVGJJo20ZgL_VrqI-16" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;7&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" parent="MC29oDFD4sYGNXnbfmlz-1" vertex="1">
@@ -243,7 +243,7 @@
         <mxCell id="DgZNfVGJJo20ZgL_VrqI-18" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;8&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" parent="MC29oDFD4sYGNXnbfmlz-1" vertex="1">
           <mxGeometry x="340" y="171.94029850746267" width="36.26865671641791" height="36.26865671641791" as="geometry" />
         </mxCell>
-        <mxCell id="DgZNfVGJJo20ZgL_VrqI-19" value="The Cash Device add on passes the payment authorisation response to the Cash box" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" parent="MC29oDFD4sYGNXnbfmlz-1" vertex="1">
+        <mxCell id="DgZNfVGJJo20ZgL_VrqI-19" value="The Cash Device add-on passes the payment authorisation response to the Cash box" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" parent="MC29oDFD4sYGNXnbfmlz-1" vertex="1">
           <mxGeometry x="391.0810810810811" y="256.56716417910445" width="368.9189189189189" height="48.35820895522388" as="geometry" />
         </mxCell>
         <mxCell id="DgZNfVGJJo20ZgL_VrqI-20" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;9&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=20;" parent="MC29oDFD4sYGNXnbfmlz-1" vertex="1">
