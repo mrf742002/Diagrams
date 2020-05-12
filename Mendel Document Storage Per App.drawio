@@ -1,6 +1,6 @@
-<mxfile modified="2020-05-12T10:20:49.283Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="Cf2S35iFIFlYn-Lynrk2" version="13.1.0" type="github" pages="2">
+<mxfile modified="2020-05-12T10:21:55.811Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="yV8TysiE8He5jguuNiNP" version="13.1.0" type="github" pages="2">
   <diagram name="Store Per App" id="IAr7c5fDw1nNA80K2c65">
-    <mxGraphModel dx="3157" dy="2243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1567" dy="1599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="4qV67QVMyGxiul4fkczf-0" />
         <mxCell id="4qV67QVMyGxiul4fkczf-1" parent="4qV67QVMyGxiul4fkczf-0" />
@@ -372,6 +372,9 @@
         </mxCell>
         <mxCell id="4qV67QVMyGxiul4fkczf-131" value="" style="shape=datastore;whiteSpace=wrap;html=1;" parent="4qV67QVMyGxiul4fkczf-1" vertex="1">
           <mxGeometry x="-77" y="500" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hA1zC1o51Lw8X6bJp8Vw-1" value="&lt;font style=&quot;font-size: 27px&quot;&gt;&lt;b&gt;?&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="4qV67QVMyGxiul4fkczf-1">
+          <mxGeometry x="-60" y="530" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
