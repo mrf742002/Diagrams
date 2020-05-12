@@ -1,6 +1,6 @@
-<mxfile modified="2020-05-12T08:22:40.597Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="aafyxfYhrfLmqItYuEJS" version="13.1.0" type="github" pages="3">
+<mxfile modified="2020-05-12T08:44:48.109Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="OwPkekG_I06tLeyl8EDc" version="13.1.0" type="github" pages="3">
   <diagram id="BA_LRu5rZzhod6iX9tZq" name="Today">
-    <mxGraphModel dx="2677" dy="2243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3157" dy="2243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="xdW8D5blII0UFYb9k85s-0" />
         <mxCell id="xdW8D5blII0UFYb9k85s-1" parent="xdW8D5blII0UFYb9k85s-0" />
@@ -367,8 +367,8 @@
         <mxCell id="blGoMDad8-FaTWucarZI-62" value="" style="group" parent="blGoMDad8-FaTWucarZI-61" vertex="1" connectable="0">
           <mxGeometry x="21.82129358910362" y="9.338653366583543" width="85.64180275262069" height="76.03192019950126" as="geometry" />
         </mxCell>
-        <mxCell id="blGoMDad8-FaTWucarZI-63" value="&lt;b&gt;Delivery Docs&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" parent="blGoMDad8-FaTWucarZI-62" vertex="1">
-          <mxGeometry x="-24.358197247379305" y="56.03192019950125" width="110" height="20" as="geometry" />
+        <mxCell id="blGoMDad8-FaTWucarZI-63" value="&lt;b&gt;Quotes&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" parent="blGoMDad8-FaTWucarZI-62" vertex="1">
+          <mxGeometry x="-4.358197247379305" y="56.03192019950125" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="blGoMDad8-FaTWucarZI-64" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/document-icons-2/30/647702-excel-128.png" parent="blGoMDad8-FaTWucarZI-61" vertex="1">
           <mxGeometry width="36.54307778410733" height="36.54307778410733" as="geometry" />
@@ -458,7 +458,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Anthill" id="gALHlpxRQAMvR7WiGYUX">
-    <mxGraphModel dx="2677" dy="2243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3157" dy="2243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="dQ3nFF4DaGCizP83bwZH-0" />
         <mxCell id="dQ3nFF4DaGCizP83bwZH-1" parent="dQ3nFF4DaGCizP83bwZH-0" />
@@ -735,8 +735,8 @@
         <mxCell id="dQ3nFF4DaGCizP83bwZH-127" value="" style="group" parent="dQ3nFF4DaGCizP83bwZH-126" vertex="1" connectable="0">
           <mxGeometry x="21.82129358910362" y="9.338653366583543" width="85.64180275262069" height="76.03192019950126" as="geometry" />
         </mxCell>
-        <mxCell id="dQ3nFF4DaGCizP83bwZH-128" value="&lt;b&gt;Delivery Docs&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" parent="dQ3nFF4DaGCizP83bwZH-127" vertex="1">
-          <mxGeometry x="-24.358197247379305" y="56.03192019950125" width="110" height="20" as="geometry" />
+        <mxCell id="dQ3nFF4DaGCizP83bwZH-128" value="&lt;b&gt;Quotes&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" parent="dQ3nFF4DaGCizP83bwZH-127" vertex="1">
+          <mxGeometry x="-4.358197247379305" y="56.03192019950125" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dQ3nFF4DaGCizP83bwZH-129" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/document-icons-2/30/647702-excel-128.png" parent="dQ3nFF4DaGCizP83bwZH-126" vertex="1">
           <mxGeometry width="36.54307778410733" height="36.54307778410733" as="geometry" />
@@ -832,7 +832,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Shared Storage" id="9xiZ-2XTqpqqrYEKdjKS">
-    <mxGraphModel dx="2677" dy="2243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3157" dy="2243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="NZ1ko2lfhuTouaXpzL7L-0" />
         <mxCell id="NZ1ko2lfhuTouaXpzL7L-1" parent="NZ1ko2lfhuTouaXpzL7L-0" />
@@ -1109,8 +1109,8 @@
         <mxCell id="NZ1ko2lfhuTouaXpzL7L-92" value="" style="group" parent="NZ1ko2lfhuTouaXpzL7L-91" vertex="1" connectable="0">
           <mxGeometry x="21.82129358910362" y="9.338653366583543" width="85.64180275262069" height="76.03192019950126" as="geometry" />
         </mxCell>
-        <mxCell id="NZ1ko2lfhuTouaXpzL7L-93" value="&lt;b&gt;Delivery Docs&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" parent="NZ1ko2lfhuTouaXpzL7L-92" vertex="1">
-          <mxGeometry x="-24.358197247379305" y="56.03192019950125" width="110" height="20" as="geometry" />
+        <mxCell id="NZ1ko2lfhuTouaXpzL7L-93" value="&lt;b&gt;Quotes&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" parent="NZ1ko2lfhuTouaXpzL7L-92" vertex="1">
+          <mxGeometry x="-4.358197247379305" y="56.03192019950125" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NZ1ko2lfhuTouaXpzL7L-94" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/document-icons-2/30/647702-excel-128.png" parent="NZ1ko2lfhuTouaXpzL7L-91" vertex="1">
           <mxGeometry width="36.54307778410733" height="36.54307778410733" as="geometry" />
