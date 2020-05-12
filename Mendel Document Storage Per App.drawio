@@ -1,9 +1,12 @@
-<mxfile modified="2020-05-12T09:05:33.750Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="PhJ1OMcRq9XIIa33LMDQ" version="13.1.0" type="github" pages="2">
+<mxfile modified="2020-05-12T10:20:49.283Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="Cf2S35iFIFlYn-Lynrk2" version="13.1.0" type="github" pages="2">
   <diagram name="Store Per App" id="IAr7c5fDw1nNA80K2c65">
-    <mxGraphModel dx="2380" dy="1885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3157" dy="2243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="4qV67QVMyGxiul4fkczf-0" />
         <mxCell id="4qV67QVMyGxiul4fkczf-1" parent="4qV67QVMyGxiul4fkczf-0" />
+        <mxCell id="hA1zC1o51Lw8X6bJp8Vw-0" value="&lt;b style=&quot;font-size: 32px&quot;&gt;Design&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=1;strokeColor=#020912;dashed=1;fontSize=32;" vertex="1" parent="4qV67QVMyGxiul4fkczf-1">
+          <mxGeometry x="-90" y="-120" width="380" height="960" as="geometry" />
+        </mxCell>
         <mxCell id="4qV67QVMyGxiul4fkczf-130" value="&lt;b&gt;Storage&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;fontSize=20;" parent="4qV67QVMyGxiul4fkczf-1" vertex="1">
           <mxGeometry x="-77" y="521.5" width="340" height="300" as="geometry" />
         </mxCell>
