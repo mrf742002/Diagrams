@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-04T10:44:18.560Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="sjjuH-It52rIRwxqZ3-N" version="13.1.14" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-06-04T11:03:00.770Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="fCTeoiUxCdPHsZHVc1JO" version="13.1.14" type="github" pages="5">
   <diagram id="ZH3xo2nN75ZQSzlnuW62" name="SimplyBookMe">
     <mxGraphModel dx="1992" dy="1706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -363,11 +363,49 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="A98NMG2X-8fj80_zRrrb" name="Page-4">
-    <mxGraphModel dx="1165" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="Finance" id="7Yy9Kr5L_5Hy43tXN0XP">
+    <mxGraphModel dx="3504" dy="2243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <mxCell id="gCokbekE-okzby5zJHpr-0" />
-        <mxCell id="gCokbekE-okzby5zJHpr-1" parent="gCokbekE-okzby5zJHpr-0" />
+        <mxCell id="sIxzeMN_vDv-lDLiye2f-0" />
+        <mxCell id="sIxzeMN_vDv-lDLiye2f-1" parent="sIxzeMN_vDv-lDLiye2f-0" />
+        <mxCell id="sIxzeMN_vDv-lDLiye2f-2" value="&lt;span style=&quot;font-size: 30px&quot;&gt;&lt;b&gt;Digital Tools&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;dashed=1;" vertex="1" parent="sIxzeMN_vDv-lDLiye2f-1">
+          <mxGeometry x="-790" y="-280" width="850" height="780" as="geometry" />
+        </mxCell>
+        <mxCell id="G2iE2jO0lYNfGYVc0v_1-0" value="&lt;span style=&quot;font-size: 30px&quot;&gt;&lt;b&gt;Website&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;" vertex="1" parent="sIxzeMN_vDv-lDLiye2f-1">
+          <mxGeometry x="-722" y="-190" width="732" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="sIxzeMN_vDv-lDLiye2f-6" value="&lt;span style=&quot;font-size: 30px&quot;&gt;&lt;b&gt;Apply Now&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;" vertex="1" parent="sIxzeMN_vDv-lDLiye2f-1">
+          <mxGeometry x="-506" y="57.99999999999999" width="300" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="sIxzeMN_vDv-lDLiye2f-8" value="&lt;span style=&quot;font-size: 30px&quot;&gt;&lt;b&gt;Barclays&amp;nbsp;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;dashed=1;" vertex="1" parent="sIxzeMN_vDv-lDLiye2f-1">
+          <mxGeometry x="-1550" y="-230" width="670" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="G2iE2jO0lYNfGYVc0v_1-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;startArrow=none;startFill=0;" edge="1" parent="sIxzeMN_vDv-lDLiye2f-1" source="sIxzeMN_vDv-lDLiye2f-12" target="G2iE2jO0lYNfGYVc0v_1-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1020" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sIxzeMN_vDv-lDLiye2f-12" value="&lt;span style=&quot;font-size: 30px&quot;&gt;&lt;b&gt;Application Process&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;" vertex="1" parent="sIxzeMN_vDv-lDLiye2f-1">
+          <mxGeometry x="-1370" y="40" width="300" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="G2iE2jO0lYNfGYVc0v_1-3" value="&lt;span style=&quot;font-size: 30px&quot;&gt;&lt;b&gt;BADA&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;" vertex="1" parent="sIxzeMN_vDv-lDLiye2f-1">
+          <mxGeometry x="-506" y="213" width="300" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="G2iE2jO0lYNfGYVc0v_1-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="sIxzeMN_vDv-lDLiye2f-1" source="G2iE2jO0lYNfGYVc0v_1-4" target="sIxzeMN_vDv-lDLiye2f-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G2iE2jO0lYNfGYVc0v_1-4" value="&lt;span style=&quot;font-size: 30px&quot;&gt;&lt;b&gt;Finance Calculator&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;" vertex="1" parent="sIxzeMN_vDv-lDLiye2f-1">
+          <mxGeometry x="-700" y="-120" width="300" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="G2iE2jO0lYNfGYVc0v_1-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="sIxzeMN_vDv-lDLiye2f-1" source="sIxzeMN_vDv-lDLiye2f-6" target="sIxzeMN_vDv-lDLiye2f-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G2iE2jO0lYNfGYVc0v_1-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="sIxzeMN_vDv-lDLiye2f-1" source="G2iE2jO0lYNfGYVc0v_1-6" target="sIxzeMN_vDv-lDLiye2f-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G2iE2jO0lYNfGYVc0v_1-6" value="&lt;span style=&quot;font-size: 30px&quot;&gt;&lt;b&gt;Configurator&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;" vertex="1" parent="sIxzeMN_vDv-lDLiye2f-1">
+          <mxGeometry x="-320" y="-120" width="300" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
