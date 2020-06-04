@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-04T15:53:40.245Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="opcD15ugGjhncOpmHWU8" version="13.1.14" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2020-06-04T15:56:18.195Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="5_W2DRjb3TW8aF_h59yH" version="13.1.14" type="github" pages="9">
   <diagram id="ZH3xo2nN75ZQSzlnuW62" name="SimplyBookMe">
     <mxGraphModel dx="3157" dy="2243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -631,6 +631,12 @@
         </mxCell>
         <mxCell id="TFW_j6eqeg82HXqiMKh7-2" value="&lt;b&gt;C&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=31;" vertex="1" parent="JZnq5vRr5NSJoqA8QYKU-1">
           <mxGeometry x="-473" y="670" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TFW_j6eqeg82HXqiMKh7-5" value="Sales Person" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=31;" vertex="1" parent="JZnq5vRr5NSJoqA8QYKU-1">
+          <mxGeometry x="-133" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TFW_j6eqeg82HXqiMKh7-6" value="Customer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=31;" vertex="1" parent="JZnq5vRr5NSJoqA8QYKU-1">
+          <mxGeometry x="-564" y="962" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
