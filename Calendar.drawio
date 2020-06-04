@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-04T14:44:43.202Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="goDUzu6c_9bJ89tC4LHq" version="13.1.14" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2020-06-04T14:56:06.796Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="dOrViuQRL-Kg45I1iIqi" version="13.1.14" type="github" pages="9">
   <diagram id="ZH3xo2nN75ZQSzlnuW62" name="SimplyBookMe">
     <mxGraphModel dx="3157" dy="2243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -272,6 +272,18 @@
         </mxCell>
         <mxCell id="XKqIAUKZQ-ubr05Zxqe4-13" value="&lt;span style=&quot;font-size: 30px&quot;&gt;&lt;b&gt;Order&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;" vertex="1" parent="dtROJ6PfEHi5SpFEpUIc-1">
           <mxGeometry x="95" y="280" width="240" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="bOmL3R8kmqnSlIuEFpkW-0" value="&lt;b style=&quot;font-size: 31px;&quot;&gt;&lt;font style=&quot;font-size: 31px;&quot;&gt;A&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=31;" vertex="1" parent="dtROJ6PfEHi5SpFEpUIc-1">
+          <mxGeometry y="50" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bOmL3R8kmqnSlIuEFpkW-1" value="&lt;b&gt;B&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=31;" vertex="1" parent="dtROJ6PfEHi5SpFEpUIc-1">
+          <mxGeometry x="-420" y="60" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bOmL3R8kmqnSlIuEFpkW-2" value="&lt;b style=&quot;font-size: 31px&quot;&gt;&lt;font style=&quot;font-size: 31px&quot;&gt;C&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=31;" vertex="1" parent="dtROJ6PfEHi5SpFEpUIc-1">
+          <mxGeometry x="-1040" y="78" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bOmL3R8kmqnSlIuEFpkW-3" value="&lt;b style=&quot;font-size: 31px&quot;&gt;&lt;font style=&quot;font-size: 31px&quot;&gt;D&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=31;" vertex="1" parent="dtROJ6PfEHi5SpFEpUIc-1">
+          <mxGeometry x="-260" y="300" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
