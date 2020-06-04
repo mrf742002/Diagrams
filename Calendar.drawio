@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-04T10:22:36.454Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="NtRsDRk6OTtr6mn91Vbm" version="13.1.14" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-06-04T10:23:29.953Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="v-MD3s8vzTjc2rJUaZeV" version="13.1.14" type="github" pages="3">
   <diagram id="ZH3xo2nN75ZQSzlnuW62" name="SimplyBookMe">
     <mxGraphModel dx="1992" dy="1706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -218,7 +218,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Copy of Qualification Prereqs" id="tqHZ63NfJa0HUfwsmvPZ">
+  <diagram name="Deposit" id="tqHZ63NfJa0HUfwsmvPZ">
     <mxGraphModel dx="3984" dy="2243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="dtROJ6PfEHi5SpFEpUIc-0" />
@@ -255,7 +255,7 @@
         <mxCell id="XKqIAUKZQ-ubr05Zxqe4-5" value="&lt;span style=&quot;font-size: 30px&quot;&gt;&lt;b&gt;Adyen&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;" vertex="1" parent="dtROJ6PfEHi5SpFEpUIc-1">
           <mxGeometry x="-1370" y="13" width="300" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="XKqIAUKZQ-ubr05Zxqe4-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="dtROJ6PfEHi5SpFEpUIc-1" source="XKqIAUKZQ-ubr05Zxqe4-6" target="XKqIAUKZQ-ubr05Zxqe4-3">
+        <mxCell id="XKqIAUKZQ-ubr05Zxqe4-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="dtROJ6PfEHi5SpFEpUIc-1" source="XKqIAUKZQ-ubr05Zxqe4-6" target="XKqIAUKZQ-ubr05Zxqe4-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XKqIAUKZQ-ubr05Zxqe4-6" value="&lt;span style=&quot;font-size: 30px&quot;&gt;&lt;b&gt;Payment Processing&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;" vertex="1" parent="dtROJ6PfEHi5SpFEpUIc-1">
