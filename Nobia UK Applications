@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-13T15:27:51.218Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="a8ubt_iBUbfW34yhsvfZ" version="13.4.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-07-13T15:48:36.301Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="eW7m-ngLqFh8QZYAa0zd" version="13.4.1" type="github" pages="2">
   <diagram id="J4MOngjnLlN5qopSFl2h" name="Lead to Cash">
     <mxGraphModel dx="3597" dy="1290" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -232,8 +232,8 @@
         <mxCell id="ou-6pgt-TQTjDwiHUaUh-49" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=1;strokeColor=#d79b00;dashed=1;fillColor=#FFB499;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="-640" y="1990" width="120" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="ou-6pgt-TQTjDwiHUaUh-50" value="CKS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1;rotation=-90;fontSize=26;" vertex="1" parent="1">
-          <mxGeometry x="-625" y="2150" width="70" height="40" as="geometry" />
+        <mxCell id="ou-6pgt-TQTjDwiHUaUh-50" value="Commodore" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1;rotation=-90;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="-675" y="2150" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ou-6pgt-TQTjDwiHUaUh-51" value="&lt;b style=&quot;font-size: 20px&quot;&gt;Anthill&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-465.03000000000003" y="2050" width="350.05" height="260" as="geometry" />
@@ -271,8 +271,8 @@
         <mxCell id="ou-6pgt-TQTjDwiHUaUh-64" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=1;strokeColor=#d79b00;dashed=1;fillColor=#FFB499;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="-640" y="2790" width="120" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="ou-6pgt-TQTjDwiHUaUh-65" value="CIE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1;rotation=-90;fontSize=26;" vertex="1" parent="1">
-          <mxGeometry x="-610" y="2920" width="60" height="40" as="geometry" />
+        <mxCell id="ou-6pgt-TQTjDwiHUaUh-65" value="Supply Co" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1;rotation=-90;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="2920" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
