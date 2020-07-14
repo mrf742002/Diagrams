@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-14T09:08:21.949Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="k6yeS1stgCz9KtrwHl9q" version="13.4.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-07-14T09:23:54.853Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="P-VnXn6b5js5tZqmp4ee" version="13.4.2" type="github" pages="2">
   <diagram id="J4MOngjnLlN5qopSFl2h" name="Lead to Cash">
     <mxGraphModel dx="3671" dy="1548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -253,9 +253,6 @@
         <mxCell id="ou-6pgt-TQTjDwiHUaUh-61" value="&lt;b style=&quot;font-size: 20px&quot;&gt;Pegasus Opera&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="2071.9999999999995" y="2440" width="276" height="266" as="geometry" />
         </mxCell>
-        <mxCell id="ou-6pgt-TQTjDwiHUaUh-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PIdIBc6kXN6XDiV8R578-4" target="PIdIBc6kXN6XDiV8R578-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ou-6pgt-TQTjDwiHUaUh-63" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=1;strokeColor=#d79b00;dashed=1;fillColor=#ffe6cc;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="-580" y="2791" width="3280" height="379" as="geometry" />
         </mxCell>
@@ -358,22 +355,87 @@
         <mxCell id="qMTGsu9rW07Vv3kgk3Hi-22" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://store.suitecrm.com/assets/img/addons/suitecrm-analytics-web-analytics/logo.png?1568389729;" vertex="1" parent="1">
           <mxGeometry x="2517.67" y="1085" width="132.33" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="A3XY6W0eO5y71hQDXMeF-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://banner2.cleanpng.com/20181118/hje/kisspng-office-365-microsoft-office-2-19-microsoft-corpora-previous-logo-microsoft-office-logo-with-app-logo-5bf15a00c45c23.2793800015425438728043.jpg;" vertex="1" parent="1">
+          <mxGeometry x="703" y="374.95" width="124" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="A3XY6W0eO5y71hQDXMeF-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://banner2.cleanpng.com/20181118/hje/kisspng-office-365-microsoft-office-2-19-microsoft-corpora-previous-logo-microsoft-office-logo-with-app-logo-5bf15a00c45c23.2793800015425438728043.jpg;" vertex="1" parent="1">
+          <mxGeometry x="2453" y="402.75" width="124" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="A3XY6W0eO5y71hQDXMeF-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://banner2.cleanpng.com/20181118/hje/kisspng-office-365-microsoft-office-2-19-microsoft-corpora-previous-logo-microsoft-office-logo-with-app-logo-5bf15a00c45c23.2793800015425438728043.jpg;" vertex="1" parent="1">
+          <mxGeometry x="2440" y="770" width="124" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="A3XY6W0eO5y71hQDXMeF-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://willparry.net/wp-content/uploads/2015/11/ExcelAccess1.png;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1630" width="124" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="A3XY6W0eO5y71hQDXMeF-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://willparry.net/wp-content/uploads/2015/11/ExcelAccess1.png;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1630" width="124" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="A3XY6W0eO5y71hQDXMeF-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://willparry.net/wp-content/uploads/2015/11/ExcelAccess1.png;" vertex="1" parent="1">
+          <mxGeometry x="993" y="1630" width="124" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="A3XY6W0eO5y71hQDXMeF-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://willparry.net/wp-content/uploads/2015/11/ExcelAccess1.png;" vertex="1" parent="1">
+          <mxGeometry x="1273" y="1637" width="124" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="A3XY6W0eO5y71hQDXMeF-12" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://willparry.net/wp-content/uploads/2015/11/ExcelAccess1.png;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="1630" width="124" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="A3XY6W0eO5y71hQDXMeF-13" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://willparry.net/wp-content/uploads/2015/11/ExcelAccess1.png;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="1630" width="124" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="A3XY6W0eO5y71hQDXMeF-14" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://banner2.cleanpng.com/20181118/hje/kisspng-office-365-microsoft-office-2-19-microsoft-corpora-previous-logo-microsoft-office-logo-with-app-logo-5bf15a00c45c23.2793800015425438728043.jpg;" vertex="1" parent="1">
+          <mxGeometry x="688" y="2130" width="124" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="A3XY6W0eO5y71hQDXMeF-15" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://banner2.cleanpng.com/20181118/hje/kisspng-office-365-microsoft-office-2-19-microsoft-corpora-previous-logo-microsoft-office-logo-with-app-logo-5bf15a00c45c23.2793800015425438728043.jpg;" vertex="1" parent="1">
+          <mxGeometry x="993" y="2130" width="124" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="A3XY6W0eO5y71hQDXMeF-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://banner2.cleanpng.com/20181118/hje/kisspng-office-365-microsoft-office-2-19-microsoft-corpora-previous-logo-microsoft-office-logo-with-app-logo-5bf15a00c45c23.2793800015425438728043.jpg;" vertex="1" parent="1">
+          <mxGeometry x="1273" y="2130" width="124" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="A3XY6W0eO5y71hQDXMeF-17" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://banner2.cleanpng.com/20181118/hje/kisspng-office-365-microsoft-office-2-19-microsoft-corpora-previous-logo-microsoft-office-logo-with-app-logo-5bf15a00c45c23.2793800015425438728043.jpg;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="2130" width="124" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="A3XY6W0eO5y71hQDXMeF-18" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://banner2.cleanpng.com/20181118/hje/kisspng-office-365-microsoft-office-2-19-microsoft-corpora-previous-logo-microsoft-office-logo-with-app-logo-5bf15a00c45c23.2793800015425438728043.jpg;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="2130" width="124" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="A3XY6W0eO5y71hQDXMeF-19" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://banner2.cleanpng.com/20181118/hje/kisspng-office-365-microsoft-office-2-19-microsoft-corpora-previous-logo-microsoft-office-logo-with-app-logo-5bf15a00c45c23.2793800015425438728043.jpg;" vertex="1" parent="1">
+          <mxGeometry x="366" y="2549.5" width="124" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="A3XY6W0eO5y71hQDXMeF-20" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://banner2.cleanpng.com/20181118/hje/kisspng-office-365-microsoft-office-2-19-microsoft-corpora-previous-logo-microsoft-office-logo-with-app-logo-5bf15a00c45c23.2793800015425438728043.jpg;" vertex="1" parent="1">
+          <mxGeometry x="676.75" y="2545.5" width="124" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="A3XY6W0eO5y71hQDXMeF-21" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://banner2.cleanpng.com/20181118/hje/kisspng-office-365-microsoft-office-2-19-microsoft-corpora-previous-logo-microsoft-office-logo-with-app-logo-5bf15a00c45c23.2793800015425438728043.jpg;" vertex="1" parent="1">
+          <mxGeometry x="978" y="2545.5" width="124" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="A3XY6W0eO5y71hQDXMeF-22" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://banner2.cleanpng.com/20181118/hje/kisspng-office-365-microsoft-office-2-19-microsoft-corpora-previous-logo-microsoft-office-logo-with-app-logo-5bf15a00c45c23.2793800015425438728043.jpg;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="2545.5" width="124" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="A3XY6W0eO5y71hQDXMeF-23" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://banner2.cleanpng.com/20181118/hje/kisspng-office-365-microsoft-office-2-19-microsoft-corpora-previous-logo-microsoft-office-logo-with-app-logo-5bf15a00c45c23.2793800015425438728043.jpg;" vertex="1" parent="1">
+          <mxGeometry x="1565.51" y="2545.5" width="124" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="A3XY6W0eO5y71hQDXMeF-24" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://banner2.cleanpng.com/20181118/hje/kisspng-office-365-microsoft-office-2-19-microsoft-corpora-previous-logo-microsoft-office-logo-with-app-logo-5bf15a00c45c23.2793800015425438728043.jpg;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="2545.5" width="124" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="A3XY6W0eO5y71hQDXMeF-25" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://banner2.cleanpng.com/20181118/hje/kisspng-office-365-microsoft-office-2-19-microsoft-corpora-previous-logo-microsoft-office-logo-with-app-logo-5bf15a00c45c23.2793800015425438728043.jpg;" vertex="1" parent="1">
+          <mxGeometry x="2460" y="1724" width="124" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="A3XY6W0eO5y71hQDXMeF-26" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://banner2.cleanpng.com/20181118/hje/kisspng-office-365-microsoft-office-2-19-microsoft-corpora-previous-logo-microsoft-office-logo-with-app-logo-5bf15a00c45c23.2793800015425438728043.jpg;" vertex="1" parent="1">
+          <mxGeometry x="2460" y="2130" width="124" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="A3XY6W0eO5y71hQDXMeF-27" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://banner2.cleanpng.com/20181118/hje/kisspng-office-365-microsoft-office-2-19-microsoft-corpora-previous-logo-microsoft-office-logo-with-app-logo-5bf15a00c45c23.2793800015425438728043.jpg;" vertex="1" parent="1">
+          <mxGeometry x="2481" y="2545.5" width="124" height="55" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="2g2AfZFjuLT499RMwdS9" name="Procure to Pay">
-    
-    <mxGraphModel dx="1662" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      
+    <mxGraphModel dx="1422" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        
         <mxCell id="bDy5c1JdyEDJkLywXPZS-0" />
-        
         <mxCell id="bDy5c1JdyEDJkLywXPZS-1" parent="bDy5c1JdyEDJkLywXPZS-0" />
-        
+        <mxCell id="so6j6Fqgb14npYltnBCU-0" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://banner2.cleanpng.com/20181118/hje/kisspng-office-365-microsoft-office-2-19-microsoft-corpora-previous-logo-microsoft-office-logo-with-app-logo-5bf15a00c45c23.2793800015425438728043.jpg;" vertex="1" parent="bDy5c1JdyEDJkLywXPZS-1">
+          <mxGeometry x="270" y="220" width="124" height="55" as="geometry" />
+        </mxCell>
       </root>
-      
     </mxGraphModel>
-    
   </diagram>
 </mxfile>
