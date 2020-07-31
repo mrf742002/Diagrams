@@ -1,4 +1,4 @@
-<mxfile modified="2020-07-31T11:56:13.450Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="AWLdVgpTnkxI5bOwQu66" version="13.5.7" type="github" pages="3">
+<mxfile modified="2020-07-31T11:56:42.751Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="xY403KQxBLosFdPz1rj9" version="13.5.7" type="github" pages="3">
   <diagram id="I0bLfncfjT9ffKwwWELv" name="Accept">
     <mxGraphModel dx="1662" dy="1943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -308,11 +308,11 @@
         <mxCell id="zqnssdxi2j7Ig4HCnsXY-0" value="&lt;font style=&quot;font-size: 22px&quot;&gt;Trade Account Application&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;dashPattern=1 1;" vertex="1" parent="sbhRWZyvmj8EbLdc4Tf7-1">
           <mxGeometry x="170" y="120" width="970" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="knH7lkWllt1cUMt98Gkc-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="sbhRWZyvmj8EbLdc4Tf7-1" source="knH7lkWllt1cUMt98Gkc-0" target="knH7lkWllt1cUMt98Gkc-8">
+        <mxCell id="knH7lkWllt1cUMt98Gkc-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="sbhRWZyvmj8EbLdc4Tf7-1" source="knH7lkWllt1cUMt98Gkc-0" target="knH7lkWllt1cUMt98Gkc-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="knH7lkWllt1cUMt98Gkc-0" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Magnet Colleague&lt;/font&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/users-android-l-lollipop-icon-pack/24/user-128.png" vertex="1" parent="sbhRWZyvmj8EbLdc4Tf7-1">
-          <mxGeometry x="-100" y="199" width="92" height="92" as="geometry" />
+          <mxGeometry x="-100" y="185" width="92" height="92" as="geometry" />
         </mxCell>
         <mxCell id="knH7lkWllt1cUMt98Gkc-1" value="&lt;font style=&quot;font-size: 16px&quot;&gt;New Accounts Team&lt;/font&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/users-android-l-lollipop-icon-pack/24/user-128.png" vertex="1" parent="sbhRWZyvmj8EbLdc4Tf7-1">
           <mxGeometry x="692.99" y="585" width="92" height="92" as="geometry" />
