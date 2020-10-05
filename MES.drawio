@@ -1,1 +1,135 @@
-<mxfile host="app.diagrams.net" modified="2020-10-02T10:30:45.213Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="e1LiTICo7KQw5kzdwv70" version="13.7.6" type="github"><diagram id="HZh-ZGl9IQIxTn_eFyWw" name="Page-1">7ZbNbqMwFIWfhmUlsME0yyRNO1UVqRKLrl1wwRqDGeMU6NP3EsyPRSq102ZmkxXm3Otr+/izZQdv8+ZO0TLby4QJB7lJ4+AbByGPEASfTml7JQz9XkgVT0zSJET8jRnRNeqBJ6yyErWUQvPSFmNZFCzWlkaVkrWd9iKFPWpJU7YQopiKpfrEE5316jUKJ/0X42k2jOyRVR/J6ZBsVlJlNJH1TMI7B2+VlLpv5c2Wic68wZe+3+0H0XFiihX6Mx3aaBXfPdy2lDU6f6vExr/nV6bKKxUHs2AHEQH1Ns/dlHVrfCB/Dt08Ny+y0FfVcZfWkIBI2UxBaKXdN1o/jlXUN8rAWvyfKDTUgHrPk4asgkjJQ5GwzisPwnXGNYtKGnfRGtAGLdO5MOFXpjQHSNaCpwVoWnYJlVby94gJHpWtFFIdR8EuclceMhM3tCMyzqery5oPN9gbsYHzxmTOtGohxXQgBjRz0vzhv564DYdjlc2ZDYxIzVlJx9ITTtAwRH2BLnQOuva76ALFp6EIbShGAGZQEHIKCnwuKPA5oHjaX6D4ayi88MRN4Z6AYnUuJvzLRfG/mUAosKDA7hIKHPzTmyJYULGOYzBag/hI2xxWVn1vJ2Y+ej/ko4fswxUMvs589GDTFj6Sr9sIv9P78RibvcLx7h0=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-05T10:27:12.252Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="-nXNc4dTh8kHrF44gzpi" version="13.7.7" type="github" pages="2">
+  <diagram id="HZh-ZGl9IQIxTn_eFyWw" name="Page-1">
+    <mxGraphModel dx="1662" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yS9cGKFyaextmzslB4Ii-1" value="&lt;b style=&quot;font-size: 26px&quot;&gt;SAP&lt;br style=&quot;font-size: 26px&quot;&gt;S/4&lt;br style=&quot;font-size: 26px&quot;&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;fontSize=26;" parent="1" vertex="1">
+          <mxGeometry x="60" y="460" width="710" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="yS9cGKFyaextmzslB4Ii-2" value="&lt;b style=&quot;font-size: 26px&quot;&gt;MES&lt;br style=&quot;font-size: 26px&quot;&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;fontSize=26;" parent="1" vertex="1">
+          <mxGeometry x="70" y="710" width="660" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="yS9cGKFyaextmzslB4Ii-3" value="&lt;b style=&quot;font-size: 26px&quot;&gt;WMS&lt;br style=&quot;font-size: 26px&quot;&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;fontSize=26;" parent="1" vertex="1">
+          <mxGeometry x="70" y="170" width="700" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="yS9cGKFyaextmzslB4Ii-4" value="&lt;b style=&quot;font-size: 26px&quot;&gt;MES&lt;br style=&quot;font-size: 26px&quot;&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;fontSize=26;" parent="1" vertex="1">
+          <mxGeometry x="225" y="300" width="350" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="yS9cGKFyaextmzslB4Ii-5" value="Account Payments" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="120" y="525" width="126" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="YBUL1r0-umt8-6t3T1BX" name="Page-2">
+    <mxGraphModel dx="1422" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="36ImpgZuu4lJq_Q2LV_Y-0" />
+        <mxCell id="36ImpgZuu4lJq_Q2LV_Y-1" parent="36ImpgZuu4lJq_Q2LV_Y-0" />
+        <mxCell id="LTgX7f0hev8FP_se9EgV-9" value="&lt;b style=&quot;font-size: 26px&quot;&gt;Cell (N)&lt;br style=&quot;font-size: 26px&quot;&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;fontSize=26;dashed=1;" vertex="1" parent="36ImpgZuu4lJq_Q2LV_Y-1">
+          <mxGeometry x="525" y="1000" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="LTgX7f0hev8FP_se9EgV-8" value="&lt;b style=&quot;font-size: 26px&quot;&gt;Cell 2&lt;br style=&quot;font-size: 26px&quot;&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;fontSize=26;dashed=1;" vertex="1" parent="36ImpgZuu4lJq_Q2LV_Y-1">
+          <mxGeometry x="365" y="1000" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="LTgX7f0hev8FP_se9EgV-2" value="&lt;b style=&quot;font-size: 26px&quot;&gt;POS&lt;br style=&quot;font-size: 26px&quot;&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;fontSize=26;" vertex="1" parent="36ImpgZuu4lJq_Q2LV_Y-1">
+          <mxGeometry x="350" y="50" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="LTgX7f0hev8FP_se9EgV-3" value="&lt;b style=&quot;font-size: 26px&quot;&gt;Configurator&lt;br style=&quot;font-size: 26px&quot;&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;fontSize=26;" vertex="1" parent="36ImpgZuu4lJq_Q2LV_Y-1">
+          <mxGeometry x="350" y="240" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="LTgX7f0hev8FP_se9EgV-4" value="&lt;b style=&quot;font-size: 26px&quot;&gt;ERP&lt;br style=&quot;font-size: 26px&quot;&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;fontSize=26;" vertex="1" parent="36ImpgZuu4lJq_Q2LV_Y-1">
+          <mxGeometry x="350" y="420" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="LTgX7f0hev8FP_se9EgV-5" value="&lt;b style=&quot;font-size: 26px&quot;&gt;MES&lt;br style=&quot;font-size: 26px&quot;&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;fontSize=26;" vertex="1" parent="36ImpgZuu4lJq_Q2LV_Y-1">
+          <mxGeometry x="350" y="600" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="LTgX7f0hev8FP_se9EgV-6" value="&lt;b style=&quot;font-size: 26px&quot;&gt;Cell Controller&lt;br style=&quot;font-size: 26px&quot;&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;fontSize=26;" vertex="1" parent="36ImpgZuu4lJq_Q2LV_Y-1">
+          <mxGeometry x="350" y="790" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="LTgX7f0hev8FP_se9EgV-7" value="&lt;b style=&quot;font-size: 26px&quot;&gt;Cell 1&lt;br style=&quot;font-size: 26px&quot;&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;fontSize=26;" vertex="1" parent="36ImpgZuu4lJq_Q2LV_Y-1">
+          <mxGeometry x="205" y="1000" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="LTgX7f0hev8FP_se9EgV-10" value="" style="shape=actor;whiteSpace=wrap;html=1;strokeWidth=5;" vertex="1" parent="36ImpgZuu4lJq_Q2LV_Y-1">
+          <mxGeometry x="60" y="120" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LTgX7f0hev8FP_se9EgV-11" value="Product Management" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;" vertex="1" parent="36ImpgZuu4lJq_Q2LV_Y-1">
+          <mxGeometry x="15" y="225" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LTgX7f0hev8FP_se9EgV-12" value="&lt;b style=&quot;font-size: 28px;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;1&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=28;" vertex="1" parent="36ImpgZuu4lJq_Q2LV_Y-1">
+          <mxGeometry x="120" y="70" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LTgX7f0hev8FP_se9EgV-13" value="&lt;b style=&quot;font-size: 28px;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;1&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=28;" vertex="1" parent="36ImpgZuu4lJq_Q2LV_Y-1">
+          <mxGeometry x="730" y="40" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LTgX7f0hev8FP_se9EgV-14" value="&lt;span style=&quot;font-size: 11.0pt ; line-height: 107% ; font-family: &amp;quot;calibri&amp;quot; , sans-serif&quot;&gt;The product range is defined by Product Management and delivered in a&#xa;data model with required parameters to serve all levels from Point of Sales&#xa;(POS) to Machine Control. &lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="36ImpgZuu4lJq_Q2LV_Y-1">
+          <mxGeometry x="805" y="20" width="470" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LTgX7f0hev8FP_se9EgV-15" value="&lt;span style=&quot;font-size: 11.0pt ; line-height: 107% ; font-family: &amp;quot;calibri&amp;quot; , sans-serif&quot;&gt;The POS will work with sales specific information suited to the customer&#xa;and then transmitted to Nobia.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="36ImpgZuu4lJq_Q2LV_Y-1">
+          <mxGeometry x="800" y="160" width="450" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LTgX7f0hev8FP_se9EgV-17" value="&lt;b style=&quot;font-size: 28px&quot;&gt;&lt;font style=&quot;font-size: 28px&quot;&gt;2&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=28;" vertex="1" parent="36ImpgZuu4lJq_Q2LV_Y-1">
+          <mxGeometry x="520" y="55" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LTgX7f0hev8FP_se9EgV-18" value="&lt;b style=&quot;font-size: 28px&quot;&gt;&lt;font style=&quot;font-size: 28px&quot;&gt;2&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=28;" vertex="1" parent="36ImpgZuu4lJq_Q2LV_Y-1">
+          <mxGeometry x="730" y="160" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LTgX7f0hev8FP_se9EgV-19" value="&lt;span style=&quot;font-size: 11.0pt ; line-height: 107% ; font-family: &amp;quot;calibri&amp;quot; , sans-serif&quot;&gt;At Enterprise Level, the Sales Bill of Material (BOM) is imported into a&#xa;Product Configurator to generate all necessary information for commercial and&#xa;manufacturing. &lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="36ImpgZuu4lJq_Q2LV_Y-1">
+          <mxGeometry x="795" y="255" width="490" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LTgX7f0hev8FP_se9EgV-20" value="&lt;b style=&quot;font-size: 28px&quot;&gt;&lt;font style=&quot;font-size: 28px&quot;&gt;3&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=28;" vertex="1" parent="36ImpgZuu4lJq_Q2LV_Y-1">
+          <mxGeometry x="730" y="255" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LTgX7f0hev8FP_se9EgV-21" value="&lt;b style=&quot;font-size: 28px&quot;&gt;&lt;font style=&quot;font-size: 28px&quot;&gt;3&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=28;" vertex="1" parent="36ImpgZuu4lJq_Q2LV_Y-1">
+          <mxGeometry x="530" y="265" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LTgX7f0hev8FP_se9EgV-22" value="&lt;span style=&quot;font-size: 11.0pt ; line-height: 107% ; font-family: &amp;quot;calibri&amp;quot; , sans-serif&quot;&gt;The manufacturing outcome will be full cabinet and component descriptions,&#xa;NC programs as well as generated drawings. &lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="36ImpgZuu4lJq_Q2LV_Y-1">
+          <mxGeometry x="795" y="390" width="480" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LTgX7f0hev8FP_se9EgV-23" value="&lt;b style=&quot;font-size: 28px&quot;&gt;&lt;font style=&quot;font-size: 28px&quot;&gt;4&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=28;" vertex="1" parent="36ImpgZuu4lJq_Q2LV_Y-1">
+          <mxGeometry x="730" y="390" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LTgX7f0hev8FP_se9EgV-24" value="&lt;b style=&quot;font-size: 28px&quot;&gt;&lt;font style=&quot;font-size: 28px&quot;&gt;4&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=28;" vertex="1" parent="36ImpgZuu4lJq_Q2LV_Y-1">
+          <mxGeometry x="520" y="430" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LTgX7f0hev8FP_se9EgV-25" value="&lt;span style=&quot;font-size: 11.0pt ; line-height: 107% ; font-family: &amp;quot;calibri&amp;quot; , sans-serif&quot;&gt;Passed on to ERP, ERP will take care of Commercial aspects as well as&#xa;Routing and Scheduling for Production. &lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="36ImpgZuu4lJq_Q2LV_Y-1">
+          <mxGeometry x="800" y="490" width="430" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LTgX7f0hev8FP_se9EgV-26" value="&lt;b style=&quot;font-size: 28px&quot;&gt;&lt;font style=&quot;font-size: 28px&quot;&gt;5&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=28;" vertex="1" parent="36ImpgZuu4lJq_Q2LV_Y-1">
+          <mxGeometry x="364" y="480" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LTgX7f0hev8FP_se9EgV-27" value="&lt;b style=&quot;font-size: 28px&quot;&gt;&lt;font style=&quot;font-size: 28px&quot;&gt;5&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=28;" vertex="1" parent="36ImpgZuu4lJq_Q2LV_Y-1">
+          <mxGeometry x="730" y="490" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LTgX7f0hev8FP_se9EgV-28" value="&lt;span style=&quot;font-size: 11.0pt ; line-height: 107% ; font-family: &amp;quot;calibri&amp;quot; , sans-serif&quot;&gt;It will then be passed to the Manufacturing Execution System where&#xa;missing Process Information (e.g. Edgebanding Macros) will be added to the&#xa;generated information. &lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="36ImpgZuu4lJq_Q2LV_Y-1">
+          <mxGeometry x="800" y="600" width="480" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LTgX7f0hev8FP_se9EgV-29" value="&lt;b style=&quot;font-size: 28px&quot;&gt;&lt;font style=&quot;font-size: 28px&quot;&gt;6&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=28;" vertex="1" parent="36ImpgZuu4lJq_Q2LV_Y-1">
+          <mxGeometry x="730" y="600" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LTgX7f0hev8FP_se9EgV-30" value="&lt;b style=&quot;font-size: 28px&quot;&gt;&lt;font style=&quot;font-size: 28px&quot;&gt;6&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=28;" vertex="1" parent="36ImpgZuu4lJq_Q2LV_Y-1">
+          <mxGeometry x="364" y="610" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LTgX7f0hev8FP_se9EgV-33" value="&lt;span style=&quot;font-size: 11.0pt ; line-height: 107% ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;MES will send order&lt;br&gt;information to cell controller&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="36ImpgZuu4lJq_Q2LV_Y-1">
+          <mxGeometry x="790" y="730" width="470" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="LTgX7f0hev8FP_se9EgV-34" value="&lt;b style=&quot;font-size: 28px&quot;&gt;&lt;font style=&quot;font-size: 28px&quot;&gt;7&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=28;" vertex="1" parent="36ImpgZuu4lJq_Q2LV_Y-1">
+          <mxGeometry x="520" y="670" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LTgX7f0hev8FP_se9EgV-35" value="&lt;b style=&quot;font-size: 28px&quot;&gt;&lt;font style=&quot;font-size: 28px&quot;&gt;7&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=28;" vertex="1" parent="36ImpgZuu4lJq_Q2LV_Y-1">
+          <mxGeometry x="730" y="730" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LTgX7f0hev8FP_se9EgV-36" value="&lt;b style=&quot;font-size: 28px&quot;&gt;&lt;font style=&quot;font-size: 28px&quot;&gt;8&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=28;" vertex="1" parent="36ImpgZuu4lJq_Q2LV_Y-1">
+          <mxGeometry x="364" y="840" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LTgX7f0hev8FP_se9EgV-37" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;cell controller will independently manage&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;the order execution with different machines in the line and manage all&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;activities which are required within different machines of the line&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="36ImpgZuu4lJq_Q2LV_Y-1">
+          <mxGeometry x="790" y="820" width="440" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="LTgX7f0hev8FP_se9EgV-38" value="&lt;b style=&quot;font-size: 28px&quot;&gt;&lt;font style=&quot;font-size: 28px&quot;&gt;8&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#B3B3B3;fontSize=28;" vertex="1" parent="36ImpgZuu4lJq_Q2LV_Y-1">
+          <mxGeometry x="730" y="830" width="50" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
