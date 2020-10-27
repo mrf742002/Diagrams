@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-27T14:43:04.639Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="cMkb0qOFnDMwm6pL0Uam" version="13.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-27T14:49:09.615Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="gHHw2DquK--zaoAmnKmh" version="13.8.3" type="github" pages="2">
   <diagram id="p20fMa0RP09D1RsRWbcO" name="Page-1">
     <mxGraphModel dx="2249" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="770" y="10" width="250" height="670" as="geometry" />
         </mxCell>
         <mxCell id="ARf_2Hbt-9Ad1JEPtJ1I-11" value="&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=1;strokeColor=#020912;dashed=1;fontSize=32;" vertex="1" parent="1">
-          <mxGeometry x="780" y="129" width="230" height="190" as="geometry" />
+          <mxGeometry x="780" y="100" width="230" height="219" as="geometry" />
         </mxCell>
         <mxCell id="c99tLSHFBEvujxyDnCjj-24" value="&lt;b&gt;Product Teams&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=1;strokeColor=#020912;dashed=1;fontSize=32;" parent="1" vertex="1">
           <mxGeometry y="10" width="340" height="670" as="geometry" />
@@ -117,10 +117,10 @@
           <mxGeometry x="792" y="195" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="ARf_2Hbt-9Ad1JEPtJ1I-8" value="Lead&lt;br style=&quot;font-size: 15px;&quot;&gt;Architect" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/people-80/96/Picture22-128.png;align=left;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="920" y="195" width="68" height="68" as="geometry" />
+          <mxGeometry x="930" y="197" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="ARf_2Hbt-9Ad1JEPtJ1I-9" value="&lt;b&gt;KDD&lt;/b&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.document;" vertex="1" parent="1">
-          <mxGeometry x="860" y="149" width="60" height="60" as="geometry" />
+          <mxGeometry x="810" y="110" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ARf_2Hbt-9Ad1JEPtJ1I-12" value="Present" style="shape=flexArrow;endArrow=classic;html=1;fontSize=17;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -134,6 +134,17 @@
             <mxPoint x="850" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="0OhkkFMMhTjVs_0uCOOg-1" value="Enterprise&lt;br&gt;&amp;nbsp;Architect" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/people-80/96/Picture22-128.png;align=left;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="882" y="106" width="68" height="68" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="JwXX_6g9EZMtV0hlzqTo" name="Page-2">
+    <mxGraphModel dx="1422" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="DqfIb0BlEA46qqVhE4fC-0" />
+        <mxCell id="DqfIb0BlEA46qqVhE4fC-1" parent="DqfIb0BlEA46qqVhE4fC-0" />
       </root>
     </mxGraphModel>
   </diagram>
