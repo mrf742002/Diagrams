@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-27T14:49:09.615Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="gHHw2DquK--zaoAmnKmh" version="13.8.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-27T14:50:51.316Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="L7QudwhqwRD2cCemYJlf" version="13.8.3" type="github" pages="2">
   <diagram id="p20fMa0RP09D1RsRWbcO" name="Page-1">
     <mxGraphModel dx="2249" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,7 +20,7 @@
           <mxGeometry x="-420" y="80" width="350" height="280" as="geometry" />
         </mxCell>
         <mxCell id="c99tLSHFBEvujxyDnCjj-25" value="&lt;b&gt;Architecture&lt;br&gt;Forum&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=1;strokeColor=#020912;dashed=1;fontSize=32;" parent="1" vertex="1">
-          <mxGeometry x="410" y="10" width="260" height="670" as="geometry" />
+          <mxGeometry x="400" y="10" width="280" height="670" as="geometry" />
         </mxCell>
         <mxCell id="c99tLSHFBEvujxyDnCjj-20" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-10" y="60" width="330" height="310" as="geometry" />
@@ -107,8 +107,8 @@
             <mxPoint x="-5" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ARf_2Hbt-9Ad1JEPtJ1I-3" value="- Background&lt;br&gt;-Recommendation/Options&lt;br&gt;-Critical Considerations&lt;br&gt;- Limitations" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="360" width="180" height="20" as="geometry" />
+        <mxCell id="ARf_2Hbt-9Ad1JEPtJ1I-3" value="- Background&lt;br style=&quot;font-size: 14px;&quot;&gt;-Recommendation/Options&lt;br style=&quot;font-size: 14px;&quot;&gt;-Critical Considerations&lt;br style=&quot;font-size: 14px;&quot;&gt;- Limitations" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="200" y="360" width="190" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ARf_2Hbt-9Ad1JEPtJ1I-4" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;KDD&lt;/b&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.document;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="472" y="380" width="116" height="110" as="geometry" />
