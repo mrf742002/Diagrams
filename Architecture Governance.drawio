@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-10-27T14:54:06.121Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="QQnmlIXjTm9W9OQLPT67" version="13.8.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-27T15:06:39.098Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="uEwOPAvnDikur_OaLLZn" version="13.8.3" type="github" pages="2">
   <diagram id="p20fMa0RP09D1RsRWbcO" name="Page-1">
     <mxGraphModel dx="2249" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="c99tLSHFBEvujxyDnCjj-26" value="&lt;b&gt;Design Authority&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=1;strokeColor=#020912;dashed=1;fontSize=32;" parent="1" vertex="1">
-          <mxGeometry x="740" y="10" width="310" height="670" as="geometry" />
+          <mxGeometry x="740" y="10" width="310" height="870" as="geometry" />
         </mxCell>
         <mxCell id="ARf_2Hbt-9Ad1JEPtJ1I-11" value="&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=1;strokeColor=#020912;dashed=1;fontSize=32;" vertex="1" parent="1">
           <mxGeometry x="780" y="100" width="230" height="219" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry x="-420" y="80" width="350" height="280" as="geometry" />
         </mxCell>
         <mxCell id="c99tLSHFBEvujxyDnCjj-25" value="&lt;b&gt;Architecture&lt;br&gt;Forum&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=1;strokeColor=#020912;dashed=1;fontSize=32;" parent="1" vertex="1">
-          <mxGeometry x="400" y="10" width="280" height="670" as="geometry" />
+          <mxGeometry x="400" y="10" width="270" height="870" as="geometry" />
         </mxCell>
         <mxCell id="c99tLSHFBEvujxyDnCjj-20" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-10" y="60" width="330" height="310" as="geometry" />
@@ -136,6 +136,18 @@
         </mxCell>
         <mxCell id="0OhkkFMMhTjVs_0uCOOg-1" value="Enterprise&lt;br&gt;&amp;nbsp;Architect" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/people-80/96/Picture22-128.png;align=left;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="882" y="106" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="0OhkkFMMhTjVs_0uCOOg-2" value="- Nobia Enterprise Architect (Mandatory)&lt;br&gt;-Noibia Solution Architects (Mandatory)&lt;br&gt;-Nobia Infrastructure Architect (Mandatory)&lt;br&gt;- CISO (at request)&lt;br&gt;- Head of MDM (at request)&lt;br&gt;- Head of Digital Platforms (at request)&lt;br&gt;-Product/Process Owners (at request)&lt;br&gt;-Systems Integrator - Lead Architect (at request)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=left;" vertex="1" parent="1">
+          <mxGeometry x="411" y="660" width="250" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="0OhkkFMMhTjVs_0uCOOg-3" value="Who?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=24;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="420" y="620" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0OhkkFMMhTjVs_0uCOOg-4" value="- Nobia Program Sponsor&lt;br&gt;- CIO&lt;br&gt;- CISO&amp;nbsp;&lt;br&gt;- Head of Infrastructure&lt;br&gt;- Polaris Program Manager&lt;br&gt;- Heads of Regional IT&lt;br&gt;- Systems Integrator&lt;br&gt;- Head of Master Data&lt;br&gt;- Head of BI" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=left;" vertex="1" parent="1">
+          <mxGeometry x="770" y="660" width="250" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="0OhkkFMMhTjVs_0uCOOg-5" value="Who?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=24;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="770" y="620" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
