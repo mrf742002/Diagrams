@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-27T15:12:08.503Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="msA1EbpmDAsEmL0R0vaQ" version="13.8.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-27T15:13:00.259Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="pm_0fd4oecREfy0bQRML" version="13.8.3" type="github" pages="2">
   <diagram id="p20fMa0RP09D1RsRWbcO" name="Page-1">
     <mxGraphModel dx="2249" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -143,8 +143,8 @@
         <mxCell id="0OhkkFMMhTjVs_0uCOOg-3" value="Who?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=24;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="420" y="620" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0OhkkFMMhTjVs_0uCOOg-4" value="- Nobia Program Sponsor&lt;br&gt;- CIO&lt;br&gt;- CISO&amp;nbsp;&lt;br&gt;- Head of Infrastructure&lt;br&gt;- Polaris Program Manager&lt;br&gt;- Heads of Regional IT&lt;br&gt;- Systems Integrator&lt;br&gt;- Head of Master Data&lt;br&gt;- Head of BI" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=left;" vertex="1" parent="1">
-          <mxGeometry x="770" y="690" width="250" height="160" as="geometry" />
+        <mxCell id="0OhkkFMMhTjVs_0uCOOg-4" value="- CIO&lt;br&gt;- CISO&amp;nbsp;&lt;br&gt;- Head of Infrastructure&lt;br&gt;- Polaris Program Manager&lt;br&gt;- Heads of Regional IT&lt;br&gt;- Systems Integrator&lt;br&gt;- Head of Master Data&lt;br&gt;- Head of BI&lt;br&gt;- Product Owners" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=left;" vertex="1" parent="1">
+          <mxGeometry x="770" y="680" width="250" height="170" as="geometry" />
         </mxCell>
         <mxCell id="0OhkkFMMhTjVs_0uCOOg-5" value="Who?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=24;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="770" y="620" width="80" height="30" as="geometry" />
