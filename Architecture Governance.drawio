@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-28T16:07:56.847Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="QYNNp6coyGfZ2mO4IerP" version="13.8.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-28T16:25:31.601Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="eiuh5wi6GCYX30rAuXiV" version="13.8.3" type="github" pages="2">
   <diagram id="p20fMa0RP09D1RsRWbcO" name="Page-1">
     <mxGraphModel dx="2489" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry y="10" width="340" height="670" as="geometry" />
         </mxCell>
         <mxCell id="c99tLSHFBEvujxyDnCjj-37" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="70" y="521" width="160" height="108" as="geometry" />
+          <mxGeometry x="40" y="521" width="220" height="139" as="geometry" />
         </mxCell>
         <mxCell id="c99tLSHFBEvujxyDnCjj-33" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-420" y="80" width="350" height="280" as="geometry" />
@@ -55,8 +55,8 @@
         <mxCell id="c99tLSHFBEvujxyDnCjj-21" value="R2R" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/business-660/512/17_team_group_meeting_business-128.png" parent="1" vertex="1">
           <mxGeometry x="50" y="192" width="68" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="c99tLSHFBEvujxyDnCjj-28" value="- Gaps&lt;br style=&quot;font-size: 15px;&quot;&gt;- Modifications&lt;br style=&quot;font-size: 15px;&quot;&gt;- Cross-functional issues&lt;br style=&quot;font-size: 15px;&quot;&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="80" y="565" width="140" height="20" as="geometry" />
+        <mxCell id="c99tLSHFBEvujxyDnCjj-28" value="- Gaps&lt;br style=&quot;font-size: 15px&quot;&gt;- Modifications&lt;br style=&quot;font-size: 15px&quot;&gt;- Cross-functional issues&lt;br&gt;-Cross-system" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="70" y="567" width="160" height="35" as="geometry" />
         </mxCell>
         <mxCell id="c99tLSHFBEvujxyDnCjj-29" value="" style="shape=flexArrow;endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
