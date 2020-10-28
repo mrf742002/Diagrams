@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2020-10-27T15:13:00.259Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="pm_0fd4oecREfy0bQRML" version="13.8.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-28T16:07:56.847Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="QYNNp6coyGfZ2mO4IerP" version="13.8.3" type="github" pages="2">
   <diagram id="p20fMa0RP09D1RsRWbcO" name="Page-1">
-    <mxGraphModel dx="2249" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2489" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="c99tLSHFBEvujxyDnCjj-26" value="&lt;b&gt;Design Authority&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=1;strokeColor=#020912;dashed=1;fontSize=32;" parent="1" vertex="1">
           <mxGeometry x="740" y="10" width="310" height="870" as="geometry" />
         </mxCell>
-        <mxCell id="ARf_2Hbt-9Ad1JEPtJ1I-11" value="&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=1;strokeColor=#020912;dashed=1;fontSize=32;" vertex="1" parent="1">
+        <mxCell id="ARf_2Hbt-9Ad1JEPtJ1I-11" value="&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=1;strokeColor=#020912;dashed=1;fontSize=32;" parent="1" vertex="1">
           <mxGeometry x="780" y="100" width="230" height="219" as="geometry" />
         </mxCell>
         <mxCell id="c99tLSHFBEvujxyDnCjj-24" value="&lt;b&gt;Product Teams&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=1;strokeColor=#020912;dashed=1;fontSize=32;" parent="1" vertex="1">
@@ -107,46 +107,46 @@
             <mxPoint x="-5" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ARf_2Hbt-9Ad1JEPtJ1I-3" value="- Background&lt;br style=&quot;font-size: 14px;&quot;&gt;-Recommendation/Options&lt;br style=&quot;font-size: 14px;&quot;&gt;-Critical Considerations&lt;br style=&quot;font-size: 14px;&quot;&gt;- Limitations" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="ARf_2Hbt-9Ad1JEPtJ1I-3" value="- Background&lt;br style=&quot;font-size: 14px;&quot;&gt;-Recommendation/Options&lt;br style=&quot;font-size: 14px;&quot;&gt;-Critical Considerations&lt;br style=&quot;font-size: 14px;&quot;&gt;- Limitations" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="200" y="360" width="190" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ARf_2Hbt-9Ad1JEPtJ1I-4" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;KDD&lt;/b&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.document;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="ARf_2Hbt-9Ad1JEPtJ1I-4" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;KDD&lt;/b&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.document;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="472" y="380" width="116" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="ARf_2Hbt-9Ad1JEPtJ1I-7" value="Product/Process&lt;br style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;Owner" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/people-80/96/Picture22-128.png;align=left;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="ARf_2Hbt-9Ad1JEPtJ1I-7" value="Product/Process&lt;br style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;Owner" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/people-80/96/Picture22-128.png;align=left;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="792" y="195" width="68" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="ARf_2Hbt-9Ad1JEPtJ1I-8" value="Lead&lt;br style=&quot;font-size: 15px;&quot;&gt;Architect" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/people-80/96/Picture22-128.png;align=left;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="ARf_2Hbt-9Ad1JEPtJ1I-8" value="Lead&lt;br style=&quot;font-size: 15px;&quot;&gt;Architect" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/people-80/96/Picture22-128.png;align=left;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="930" y="197" width="68" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="ARf_2Hbt-9Ad1JEPtJ1I-9" value="&lt;b&gt;KDD&lt;/b&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.document;" vertex="1" parent="1">
+        <mxCell id="ARf_2Hbt-9Ad1JEPtJ1I-9" value="&lt;b&gt;KDD&lt;/b&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.document;" parent="1" vertex="1">
           <mxGeometry x="810" y="110" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ARf_2Hbt-9Ad1JEPtJ1I-12" value="Present" style="shape=flexArrow;endArrow=classic;html=1;fontSize=17;" edge="1" parent="1">
+        <mxCell id="ARf_2Hbt-9Ad1JEPtJ1I-12" value="Present" style="shape=flexArrow;endArrow=classic;html=1;fontSize=17;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="840" y="323" as="sourcePoint" />
             <mxPoint x="840" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ARf_2Hbt-9Ad1JEPtJ1I-13" value="Feedback/&lt;br&gt;Approval" style="shape=flexArrow;endArrow=classic;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" target="ARf_2Hbt-9Ad1JEPtJ1I-11">
+        <mxCell id="ARf_2Hbt-9Ad1JEPtJ1I-13" value="Feedback/&lt;br&gt;Approval" style="shape=flexArrow;endArrow=classic;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=14;" parent="1" target="ARf_2Hbt-9Ad1JEPtJ1I-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="953" y="397" as="sourcePoint" />
             <mxPoint x="850" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0OhkkFMMhTjVs_0uCOOg-1" value="Enterprise&lt;br&gt;&amp;nbsp;Architect" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/people-80/96/Picture22-128.png;align=left;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="0OhkkFMMhTjVs_0uCOOg-1" value="Enterprise&lt;br&gt;&amp;nbsp;Architect" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/people-80/96/Picture22-128.png;align=left;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="882" y="106" width="68" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="0OhkkFMMhTjVs_0uCOOg-2" value="- Nobia Enterprise Architect (Mandatory)&lt;br&gt;-Noibia Solution Architects (Mandatory)&lt;br&gt;-Nobia Infrastructure Architect (Mandatory)&lt;br&gt;- CISO (at request)&lt;br&gt;- Head of MDM (at request)&lt;br&gt;- Head of Digital Platforms (at request)&lt;br&gt;-Product/Process Owners (at request)&lt;br&gt;-Systems Integrator - Lead Architect (at request)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=left;" vertex="1" parent="1">
+        <mxCell id="0OhkkFMMhTjVs_0uCOOg-2" value="- Nobia Enterprise Architect (Mandatory)&lt;br&gt;-Noibia Solution Architects (at request)&lt;br&gt;-Nobia Infrastructure Architect (at request)&lt;br&gt;- CISO (at request)&lt;br&gt;- Head of MDM (at request)&lt;br&gt;- Head of Digital Platforms (at request)&lt;br&gt;-Product/Process Owners (at request)&lt;br&gt;-Systems Integrator - Lead Architect (at request)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=left;" parent="1" vertex="1">
           <mxGeometry x="411" y="660" width="250" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="0OhkkFMMhTjVs_0uCOOg-3" value="Who?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=24;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="0OhkkFMMhTjVs_0uCOOg-3" value="Who?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=24;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="420" y="620" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0OhkkFMMhTjVs_0uCOOg-4" value="- CIO&lt;br&gt;- CISO&amp;nbsp;&lt;br&gt;- Head of Infrastructure&lt;br&gt;- Polaris Program Manager&lt;br&gt;- Heads of Regional IT&lt;br&gt;- Systems Integrator&lt;br&gt;- Head of Master Data&lt;br&gt;- Head of BI&lt;br&gt;- Product Owners" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=left;" vertex="1" parent="1">
+        <mxCell id="0OhkkFMMhTjVs_0uCOOg-4" value="- CIO&lt;br&gt;- CISO&amp;nbsp;&lt;br&gt;- Head of Infrastructure&lt;br&gt;- Polaris Program Manager&lt;br&gt;- Heads of Regional IT&lt;br&gt;- Systems Integrator&lt;br&gt;- Head of Master Data&lt;br&gt;- Head of BI&lt;br&gt;- Product Owners" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=left;" parent="1" vertex="1">
           <mxGeometry x="770" y="680" width="250" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="0OhkkFMMhTjVs_0uCOOg-5" value="Who?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=24;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="0OhkkFMMhTjVs_0uCOOg-5" value="Who?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=24;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="770" y="620" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
