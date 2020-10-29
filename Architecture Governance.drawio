@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-28T16:25:31.601Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="eiuh5wi6GCYX30rAuXiV" version="13.8.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-29T15:59:34.164Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="fc54NWbazmxFdpJkqIPt" version="13.8.5" type="github" pages="2">
   <diagram id="p20fMa0RP09D1RsRWbcO" name="Page-1">
     <mxGraphModel dx="2489" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,7 +55,7 @@
         <mxCell id="c99tLSHFBEvujxyDnCjj-21" value="R2R" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/business-660/512/17_team_group_meeting_business-128.png" parent="1" vertex="1">
           <mxGeometry x="50" y="192" width="68" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="c99tLSHFBEvujxyDnCjj-28" value="- Gaps&lt;br style=&quot;font-size: 15px&quot;&gt;- Modifications&lt;br style=&quot;font-size: 15px&quot;&gt;- Cross-functional issues&lt;br&gt;-Cross-system" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="c99tLSHFBEvujxyDnCjj-28" value="- Gaps&lt;br style=&quot;font-size: 15px&quot;&gt;- Modifications&lt;br style=&quot;font-size: 15px&quot;&gt;- Cross-functional issues&lt;br&gt;-Cross-system Issues" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="70" y="567" width="160" height="35" as="geometry" />
         </mxCell>
         <mxCell id="c99tLSHFBEvujxyDnCjj-29" value="" style="shape=flexArrow;endArrow=classic;html=1;" parent="1" edge="1">
@@ -137,7 +137,7 @@
         <mxCell id="0OhkkFMMhTjVs_0uCOOg-1" value="Enterprise&lt;br&gt;&amp;nbsp;Architect" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/people-80/96/Picture22-128.png;align=left;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="882" y="106" width="68" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="0OhkkFMMhTjVs_0uCOOg-2" value="- Nobia Enterprise Architect (Mandatory)&lt;br&gt;-Noibia Solution Architects (at request)&lt;br&gt;-Nobia Infrastructure Architect (at request)&lt;br&gt;- CISO (at request)&lt;br&gt;- Head of MDM (at request)&lt;br&gt;- Head of Digital Platforms (at request)&lt;br&gt;-Product/Process Owners (at request)&lt;br&gt;-Systems Integrator - Lead Architect (at request)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=left;" parent="1" vertex="1">
+        <mxCell id="0OhkkFMMhTjVs_0uCOOg-2" value="- Nobia Enterprise Architect (Mandatory)&lt;br&gt;-Noibia Solution Architects (Optional)&lt;br&gt;-Nobia Infrastructure Architect (Optional)&lt;br&gt;- CISO (at request)&lt;br&gt;- Head of MDM (at request)&lt;br&gt;- Head of Digital Platforms (at request)&lt;br&gt;-Product/Process Owners (at request)&lt;br&gt;-Systems Integrator - Lead Architect (at request)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=left;" parent="1" vertex="1">
           <mxGeometry x="411" y="660" width="250" height="200" as="geometry" />
         </mxCell>
         <mxCell id="0OhkkFMMhTjVs_0uCOOg-3" value="Who?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=24;fontStyle=1" parent="1" vertex="1">
