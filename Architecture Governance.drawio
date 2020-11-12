@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-12T15:45:10.398Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="XQJdEcZVFAtR12d0PSO_" version="13.9.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-11-12T16:18:17.080Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="sjME6k6Qm59np34WzW_U" version="13.9.6" type="github" pages="7">
   <diagram id="p20fMa0RP09D1RsRWbcO" name="Overall">
-    <mxGraphModel dx="2489" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -147,6 +147,65 @@
           <mxGeometry x="770" y="680" width="250" height="170" as="geometry" />
         </mxCell>
         <mxCell id="0OhkkFMMhTjVs_0uCOOg-5" value="Who?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=24;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="770" y="620" width="80" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="DA" id="npPlVVGVC8gvojWzI7Bi">
+    <mxGraphModel dx="1422" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="90E6TClhRa6mLpljwidf-0" />
+        <mxCell id="90E6TClhRa6mLpljwidf-1" parent="90E6TClhRa6mLpljwidf-0" />
+        <mxCell id="90E6TClhRa6mLpljwidf-2" value="&lt;b&gt;Design Authority&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=1;strokeColor=#020912;dashed=1;fontSize=32;" vertex="1" parent="90E6TClhRa6mLpljwidf-1">
+          <mxGeometry x="740" y="10" width="310" height="870" as="geometry" />
+        </mxCell>
+        <mxCell id="90E6TClhRa6mLpljwidf-3" value="&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=1;strokeColor=#020912;dashed=1;fontSize=32;" vertex="1" parent="90E6TClhRa6mLpljwidf-1">
+          <mxGeometry x="780" y="100" width="230" height="219" as="geometry" />
+        </mxCell>
+        <mxCell id="90E6TClhRa6mLpljwidf-7" value="&lt;b&gt;Architecture&lt;br&gt;Forum&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=1;strokeColor=#020912;dashed=1;fontSize=32;" vertex="1" parent="90E6TClhRa6mLpljwidf-1">
+          <mxGeometry x="400" y="10" width="270" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="90E6TClhRa6mLpljwidf-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/entrepreneur-solid-high-risk-high-return/512/Teamwork-128.png" vertex="1" parent="90E6TClhRa6mLpljwidf-1">
+          <mxGeometry x="472" y="132" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="90E6TClhRa6mLpljwidf-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/business-660/512/12_meeting_business_office_team-128.png" vertex="1" parent="90E6TClhRa6mLpljwidf-1">
+          <mxGeometry x="800" y="400" width="190" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="90E6TClhRa6mLpljwidf-15" value="Recommend" style="shape=flexArrow;endArrow=classic;html=1;fontSize=21;" edge="1" parent="90E6TClhRa6mLpljwidf-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="229.5" as="sourcePoint" />
+            <mxPoint x="770" y="229.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="90E6TClhRa6mLpljwidf-30" value="Product/Process&lt;br style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;Owner" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/people-80/96/Picture22-128.png;align=left;fontSize=15;" vertex="1" parent="90E6TClhRa6mLpljwidf-1">
+          <mxGeometry x="792" y="195" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="90E6TClhRa6mLpljwidf-31" value="Lead&lt;br style=&quot;font-size: 15px;&quot;&gt;Architect" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/people-80/96/Picture22-128.png;align=left;fontSize=15;" vertex="1" parent="90E6TClhRa6mLpljwidf-1">
+          <mxGeometry x="930" y="197" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="90E6TClhRa6mLpljwidf-32" value="&lt;b&gt;KDD&lt;/b&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.document;" vertex="1" parent="90E6TClhRa6mLpljwidf-1">
+          <mxGeometry x="810" y="110" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="90E6TClhRa6mLpljwidf-33" value="Present" style="shape=flexArrow;endArrow=classic;html=1;fontSize=17;" edge="1" parent="90E6TClhRa6mLpljwidf-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="323" as="sourcePoint" />
+            <mxPoint x="840" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="90E6TClhRa6mLpljwidf-34" value="Feedback/&lt;br&gt;Approval" style="shape=flexArrow;endArrow=classic;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="90E6TClhRa6mLpljwidf-1" target="90E6TClhRa6mLpljwidf-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="953" y="397" as="sourcePoint" />
+            <mxPoint x="850" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="90E6TClhRa6mLpljwidf-35" value="Enterprise&lt;br&gt;&amp;nbsp;Architect" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/people-80/96/Picture22-128.png;align=left;fontSize=15;" vertex="1" parent="90E6TClhRa6mLpljwidf-1">
+          <mxGeometry x="882" y="106" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="90E6TClhRa6mLpljwidf-38" value="- CIO&lt;br&gt;- CISO&amp;nbsp;&lt;br&gt;- Head of Infrastructure&lt;br&gt;- Polaris Program Manager&lt;br&gt;- Heads of Regional IT&lt;br&gt;- Systems Integrator&lt;br&gt;- Head of Master Data&lt;br&gt;- Head of BI&lt;br&gt;- Product Owners" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=left;" vertex="1" parent="90E6TClhRa6mLpljwidf-1">
+          <mxGeometry x="770" y="680" width="250" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="90E6TClhRa6mLpljwidf-39" value="Who?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=24;fontStyle=1" vertex="1" parent="90E6TClhRa6mLpljwidf-1">
           <mxGeometry x="770" y="620" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
