@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-24T20:34:22.572Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="FauB-m0hWrbUnarUh30D" version="14.2.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-24T20:38:28.567Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="TAt2-PBW-BGKqwOR6MJS" version="14.2.6" type="github" pages="2">
   <diagram id="Owtm409XgRJTrGUsXU6g" name="Integration Domains">
     <mxGraphModel dx="2489" dy="1943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -369,8 +369,8 @@
         <mxCell id="A_N5UnCFRovlNjpvK102-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="FuqmlynmzbsdUdi3RzsM-1" vertex="1">
           <mxGeometry x="-388" y="77" width="280" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="A_N5UnCFRovlNjpvK102-6" value="&lt;span style=&quot;font-size: 18px&quot;&gt;Equipment &amp;amp;&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;font-size: 18px&quot;&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;Sensors&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="FuqmlynmzbsdUdi3RzsM-1" vertex="1">
-          <mxGeometry x="-310" y="90" width="120" height="40" as="geometry" />
+        <mxCell id="A_N5UnCFRovlNjpvK102-6" value="&lt;span style=&quot;font-size: 18px&quot;&gt;Real World Objects&lt;br&gt;&amp;nbsp;and Equipment&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="FuqmlynmzbsdUdi3RzsM-1" vertex="1">
+          <mxGeometry x="-335" y="90" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dTuZwNe7od-spgQprI8R-0" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/construction-2-21/512/construction-industry-building-08-128.png" parent="FuqmlynmzbsdUdi3RzsM-1" vertex="1">
           <mxGeometry x="-360" y="150" width="70" height="70" as="geometry" />
