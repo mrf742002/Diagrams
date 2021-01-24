@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-22T14:25:29.774Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="BYMZMhLJajuYfRunyvmy" version="14.2.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-24T20:34:22.572Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="FauB-m0hWrbUnarUh30D" version="14.2.6" type="github" pages="2">
   <diagram id="Owtm409XgRJTrGUsXU6g" name="Integration Domains">
-    <mxGraphModel dx="2249" dy="1943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2489" dy="1943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -199,35 +199,38 @@
         <mxCell id="JSzs0DYUMlTjXLvYXHMq-73" value="&lt;font style=&quot;font-size: 18px&quot;&gt;User Centric&lt;br&gt;Applications&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-159" y="60" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="r6_IS7kew0HrWAqit7Fl-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+        <mxCell id="r6_IS7kew0HrWAqit7Fl-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="794" y="35" width="150" height="715" as="geometry" />
         </mxCell>
-        <mxCell id="r6_IS7kew0HrWAqit7Fl-2" value="&lt;span style=&quot;font-size: 18px&quot;&gt;Equipment &amp;amp; &lt;br&gt;Sensors&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="815" y="50" width="120" height="40" as="geometry" />
+        <mxCell id="r6_IS7kew0HrWAqit7Fl-2" value="&lt;span style=&quot;font-size: 18px&quot;&gt;Real World&amp;nbsp;&lt;br&gt;Objects &amp;amp; &lt;br&gt;Equipment&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="814" y="50" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="r6_IS7kew0HrWAqit7Fl-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/construction-2-21/512/construction-industry-building-08-128.png" vertex="1" parent="1">
+        <mxCell id="r6_IS7kew0HrWAqit7Fl-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/construction-2-21/512/construction-industry-building-08-128.png" parent="1" vertex="1">
           <mxGeometry x="827" y="120" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="r6_IS7kew0HrWAqit7Fl-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/science-technology-outline-24-px/24/factory_company_building_manufacturer_powerplant-128.png" vertex="1" parent="1">
-          <mxGeometry x="920" y="-7" width="74" height="74" as="geometry" />
+        <mxCell id="r6_IS7kew0HrWAqit7Fl-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/science-technology-outline-24-px/24/factory_company_building_manufacturer_powerplant-128.png" parent="1" vertex="1">
+          <mxGeometry x="908" y="-14" width="74" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="r6_IS7kew0HrWAqit7Fl-5" value="" style="shape=mxgraph.signs.transportation.forklift;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+        <mxCell id="r6_IS7kew0HrWAqit7Fl-5" value="" style="shape=mxgraph.signs.transportation.forklift;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="827" y="331" width="77" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="r6_IS7kew0HrWAqit7Fl-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/transport-5/128/transport-icons-03.png" vertex="1" parent="1">
+        <mxCell id="r6_IS7kew0HrWAqit7Fl-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/transport-5/128/transport-icons-03.png" parent="1" vertex="1">
           <mxGeometry x="822" y="540" width="86" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="r6_IS7kew0HrWAqit7Fl-8" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;fillColor=#E6E6E6;entryX=0.993;entryY=0.186;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="r6_IS7kew0HrWAqit7Fl-8" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;fillColor=#E6E6E6;entryX=0.993;entryY=0.186;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="794.05" y="161.01" as="sourcePoint" />
             <mxPoint x="719.9999999999998" y="160.99999999999977" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r6_IS7kew0HrWAqit7Fl-10" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;fillColor=#E6E6E6;entryX=1.007;entryY=0.739;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.003;exitY=0.468;exitDx=0;exitDy=0;exitPerimeter=0;startWidth=22;startSize=6.93;" edge="1" parent="1">
+        <mxCell id="r6_IS7kew0HrWAqit7Fl-10" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;fillColor=#E6E6E6;entryX=1.007;entryY=0.739;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.003;exitY=0.468;exitDx=0;exitDy=0;exitPerimeter=0;startWidth=22;startSize=6.93;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="794.0000000000002" y="570.7299999999999" as="sourcePoint" />
             <mxPoint x="719.0400000000002" y="569.9950000000002" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YtQJEYx-WLeUj6bWcx8b-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/business-collection-2027/60/cart-9-128.png" vertex="1" parent="1">
+          <mxGeometry x="936" y="60" width="58" height="58" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -360,22 +363,22 @@
         <mxCell id="5DHw4WT4swCtZwy7J85W-48" value="Data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="5DHw4WT4swCtZwy7J85W-45" vertex="1">
           <mxGeometry x="95" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="A_N5UnCFRovlNjpvK102-4" value="Interaction Logic" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FuqmlynmzbsdUdi3RzsM-1">
+        <mxCell id="A_N5UnCFRovlNjpvK102-4" value="Interaction Logic" style="rounded=1;whiteSpace=wrap;html=1;" parent="FuqmlynmzbsdUdi3RzsM-1" vertex="1">
           <mxGeometry x="-370" y="240" width="250" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="A_N5UnCFRovlNjpvK102-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="FuqmlynmzbsdUdi3RzsM-1">
+        <mxCell id="A_N5UnCFRovlNjpvK102-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="FuqmlynmzbsdUdi3RzsM-1" vertex="1">
           <mxGeometry x="-388" y="77" width="280" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="A_N5UnCFRovlNjpvK102-6" value="&lt;span style=&quot;font-size: 18px&quot;&gt;Equipment &amp;amp;&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;font-size: 18px&quot;&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;Sensors&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="FuqmlynmzbsdUdi3RzsM-1">
+        <mxCell id="A_N5UnCFRovlNjpvK102-6" value="&lt;span style=&quot;font-size: 18px&quot;&gt;Equipment &amp;amp;&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;font-size: 18px&quot;&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;Sensors&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="FuqmlynmzbsdUdi3RzsM-1" vertex="1">
           <mxGeometry x="-310" y="90" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dTuZwNe7od-spgQprI8R-0" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/construction-2-21/512/construction-industry-building-08-128.png" vertex="1" parent="FuqmlynmzbsdUdi3RzsM-1">
+        <mxCell id="dTuZwNe7od-spgQprI8R-0" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/construction-2-21/512/construction-industry-building-08-128.png" parent="FuqmlynmzbsdUdi3RzsM-1" vertex="1">
           <mxGeometry x="-360" y="150" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="qAty5WYdPMYTmxtSJh3n-0" value="" style="shape=mxgraph.signs.transportation.forklift;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="FuqmlynmzbsdUdi3RzsM-1">
+        <mxCell id="qAty5WYdPMYTmxtSJh3n-0" value="" style="shape=mxgraph.signs.transportation.forklift;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="FuqmlynmzbsdUdi3RzsM-1" vertex="1">
           <mxGeometry x="-283.5" y="154.5" width="77" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="FmsZ40gMrbFdVV75PR6l-0" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/transport-5/128/transport-icons-03.png" vertex="1" parent="FuqmlynmzbsdUdi3RzsM-1">
+        <mxCell id="FmsZ40gMrbFdVV75PR6l-0" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/transport-5/128/transport-icons-03.png" parent="FuqmlynmzbsdUdi3RzsM-1" vertex="1">
           <mxGeometry x="-206" y="154" width="86" height="86" as="geometry" />
         </mxCell>
       </root>
