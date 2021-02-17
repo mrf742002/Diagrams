@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-02-17T15:25:35.842Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="I7aR1Xngki_dlPNszXxh" version="14.2.9" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-02-17T15:33:47.593Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="3iyIfPIUxfe2K3hjiI8u" version="14.2.9" type="github" pages="7">
   <diagram id="p20fMa0RP09D1RsRWbcO" name="Overall">
     <mxGraphModel dx="2489" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HSUAWQPKj-lR8qvbmg6g-1" value="&lt;b&gt;Architecture Forum&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=1;strokeColor=#020912;dashed=1;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="374" y="10" width="329" height="750" as="geometry" />
+        </mxCell>
         <mxCell id="c99tLSHFBEvujxyDnCjj-26" value="&lt;b&gt;Design Authority&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=1;strokeColor=#020912;dashed=1;fontSize=32;" parent="1" vertex="1">
           <mxGeometry x="740" y="10" width="310" height="750" as="geometry" />
         </mxCell>
@@ -11,7 +14,7 @@
           <mxGeometry x="780" y="100" width="230" height="219" as="geometry" />
         </mxCell>
         <mxCell id="c99tLSHFBEvujxyDnCjj-24" value="&lt;b&gt;Scrum Teams&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=1;strokeColor=#020912;dashed=1;fontSize=32;" parent="1" vertex="1">
-          <mxGeometry y="10" width="340" height="670" as="geometry" />
+          <mxGeometry y="10" width="340" height="750" as="geometry" />
         </mxCell>
         <mxCell id="c99tLSHFBEvujxyDnCjj-37" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="521" width="220" height="139" as="geometry" />
@@ -135,10 +138,10 @@
           <mxGeometry x="882" y="106" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="0OhkkFMMhTjVs_0uCOOg-2" value="- Nobia Enterprise Architect/IBM Lead Architect&amp;nbsp;&lt;br&gt;-Noibia/IBM Solution Architects&amp;nbsp;&lt;br&gt;-Nobia/IBM Infrastructure Architect&lt;br&gt;- CISO &lt;br&gt;- Head of MDM&lt;br&gt;- Head of Digital Platforms&amp;nbsp;&lt;br&gt;- Process Owners&amp;nbsp;&lt;br&gt;-" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=left;" parent="1" vertex="1">
-          <mxGeometry x="411" y="660" width="250" height="150" as="geometry" />
+          <mxGeometry x="405" y="580" width="250" height="150" as="geometry" />
         </mxCell>
         <mxCell id="0OhkkFMMhTjVs_0uCOOg-3" value="Who?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=24;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="420" y="620" width="80" height="30" as="geometry" />
+          <mxGeometry x="414" y="540" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0OhkkFMMhTjVs_0uCOOg-4" value="Polaris Program Manager &amp;amp; TBC" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=left;" parent="1" vertex="1">
           <mxGeometry x="770" y="680" width="250" height="50" as="geometry" />
