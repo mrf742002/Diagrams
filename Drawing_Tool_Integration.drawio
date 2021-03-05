@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-05T10:30:33.735Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="svcKGHZGXXVf9uO6b9hw" version="14.4.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-03-05T10:47:58.581Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="x4TnT_Lum2SHBCHHSprE" version="14.4.3" type="github" pages="7">
   <diagram id="XcN89VJ8-E59YlMSc6sj" name="Push">
     <mxGraphModel dx="2249" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -503,7 +503,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TuWqp0ZSUOtrpiVh_dmj" name="Option 1- Direct">
-    <mxGraphModel dx="3316" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3076" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Kkgird95u1JAKeHnWEPt-0" />
         <mxCell id="Kkgird95u1JAKeHnWEPt-1" parent="Kkgird95u1JAKeHnWEPt-0" />
@@ -587,6 +587,15 @@
         <mxCell id="t0pE2Wj_oelrRC0_6PrG-5" value="Export" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="Kkgird95u1JAKeHnWEPt-1">
           <mxGeometry x="-510" y="1003" width="60" height="34" as="geometry" />
         </mxCell>
+        <mxCell id="CdVBY64N55E523I0tnou-0" value="https://{Customer Environment}.webcomcpq.com" style="text;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="Kkgird95u1JAKeHnWEPt-1">
+          <mxGeometry x="-90" y="750" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CdVBY64N55E523I0tnou-1" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=21;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#ffffff;" edge="1" parent="Kkgird95u1JAKeHnWEPt-1" source="CdVBY64N55E523I0tnou-0" target="1yMtdNwS1NvyWxCF7Z9u-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="570" as="sourcePoint" />
+            <mxPoint x="50" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -656,6 +665,9 @@
         <mxCell id="uuteBB9yoQgnzPuM3big-17" value="Export" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="uuteBB9yoQgnzPuM3big-1">
           <mxGeometry x="-510" y="353" width="60" height="34" as="geometry" />
         </mxCell>
+        <mxCell id="dOXsVV6zxo1ORmO2aOVr-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#ffffff;fontSize=21;" edge="1" parent="uuteBB9yoQgnzPuM3big-1" source="uuteBB9yoQgnzPuM3big-19" target="uuteBB9yoQgnzPuM3big-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uuteBB9yoQgnzPuM3big-19" value="Export" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="uuteBB9yoQgnzPuM3big-1">
           <mxGeometry x="-510" y="525" width="60" height="34" as="geometry" />
         </mxCell>
@@ -683,6 +695,30 @@
         </mxCell>
         <mxCell id="uNOed9VTOIhLfCpL34dw-0" value="API" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="uuteBB9yoQgnzPuM3big-1">
           <mxGeometry x="384" y="556" width="60" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="dOXsVV6zxo1ORmO2aOVr-0" value="https://{Customer Environment}.webcomcpq.com" style="text;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="uuteBB9yoQgnzPuM3big-1">
+          <mxGeometry x="174" y="738" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dOXsVV6zxo1ORmO2aOVr-1" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=21;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#ffffff;" edge="1" parent="uuteBB9yoQgnzPuM3big-1" source="dOXsVV6zxo1ORmO2aOVr-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="264" y="558" as="sourcePoint" />
+            <mxPoint x="414" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="414" y="678" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dOXsVV6zxo1ORmO2aOVr-2" value="https://API.nobia.com" style="text;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="uuteBB9yoQgnzPuM3big-1">
+          <mxGeometry x="-147" y="738" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dOXsVV6zxo1ORmO2aOVr-4" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=21;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#ffffff;" edge="1" parent="uuteBB9yoQgnzPuM3big-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-52" y="738" as="sourcePoint" />
+            <mxPoint x="-52.5" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-52.5" y="678" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
