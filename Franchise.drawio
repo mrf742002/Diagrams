@@ -1,11 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2021-03-11T15:16:34.866Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="Jq3e9YfJcuCq1gtbrYtd" version="14.4.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-11T15:29:11.440Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="kL8BP-BFmQzH4Y5xo53v" version="14.4.6" type="github" pages="4">
   <diagram id="jrDWQYRpgAg6JNiqAati" name=" Nobia Supply">
-    <mxGraphModel dx="2489" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="17v_tddYD5YED9fllH2--0" />
         <mxCell id="17v_tddYD5YED9fllH2--1" parent="17v_tddYD5YED9fllH2--0" />
+        <mxCell id="R1kuk6NeQ399WjD4Zfti-0" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;" vertex="1" parent="17v_tddYD5YED9fllH2--1">
+          <mxGeometry x="-710" y="690" width="510" height="250" as="geometry" />
+        </mxCell>
         <mxCell id="17v_tddYD5YED9fllH2--2" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;" parent="17v_tddYD5YED9fllH2--1" vertex="1">
-          <mxGeometry x="-710" y="80" width="510" height="250" as="geometry" />
+          <mxGeometry x="-710" y="110" width="510" height="250" as="geometry" />
         </mxCell>
         <mxCell id="17v_tddYD5YED9fllH2--3" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;" parent="17v_tddYD5YED9fllH2--1" vertex="1">
           <mxGeometry x="-710" y="400" width="510" height="250" as="geometry" />
@@ -13,14 +16,11 @@
         <mxCell id="17v_tddYD5YED9fllH2--4" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;" parent="17v_tddYD5YED9fllH2--1" vertex="1">
           <mxGeometry x="-150" y="390" width="380" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="17v_tddYD5YED9fllH2--5" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;" parent="17v_tddYD5YED9fllH2--1" vertex="1">
-          <mxGeometry x="-700" y="790" width="380" height="250" as="geometry" />
-        </mxCell>
         <mxCell id="17v_tddYD5YED9fllH2--6" value="Own Store Supply Invoices" style="rounded=1;whiteSpace=wrap;html=1;" parent="17v_tddYD5YED9fllH2--1" vertex="1">
-          <mxGeometry x="-650" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="-650" y="250" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="17v_tddYD5YED9fllH2--7" value="Franchise Store Supply Invoices" style="rounded=1;whiteSpace=wrap;html=1;" parent="17v_tddYD5YED9fllH2--1" vertex="1">
-          <mxGeometry x="-660" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="-657.5" y="760" width="165" height="60" as="geometry" />
         </mxCell>
         <mxCell id="17v_tddYD5YED9fllH2--8" value="Store Orders" style="rounded=1;whiteSpace=wrap;html=1;" parent="17v_tddYD5YED9fllH2--1" vertex="1">
           <mxGeometry x="-640" y="480" width="390" height="60" as="geometry" />
@@ -29,72 +29,118 @@
           <mxGeometry x="-90" y="485" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="17v_tddYD5YED9fllH2--10" value="Own Store Orders" style="rounded=1;whiteSpace=wrap;html=1;" parent="17v_tddYD5YED9fllH2--1" vertex="1">
-          <mxGeometry x="-490" y="250" width="210" height="60" as="geometry" />
+          <mxGeometry x="-440" y="250" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="17v_tddYD5YED9fllH2--11" value="Own Store Customer&lt;br&gt;Invoices" style="rounded=1;whiteSpace=wrap;html=1;" parent="17v_tddYD5YED9fllH2--1" vertex="1">
-          <mxGeometry x="-360" y="150" width="90" height="60" as="geometry" />
+          <mxGeometry x="-440" y="150" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="17v_tddYD5YED9fllH2--12" value="Franchise Customer Invoices" style="rounded=1;whiteSpace=wrap;html=1;" parent="17v_tddYD5YED9fllH2--1" vertex="1">
-          <mxGeometry x="-430" y="840" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="17v_tddYD5YED9fllH2--13" value="Franchise&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="17v_tddYD5YED9fllH2--1" vertex="1">
-          <mxGeometry x="-140" y="820" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="17v_tddYD5YED9fllH2--14" value="Own Store Purchase Orders" style="rounded=1;whiteSpace=wrap;html=1;" parent="17v_tddYD5YED9fllH2--1" vertex="1">
-          <mxGeometry x="-490" y="150" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="17v_tddYD5YED9fllH2--15" value="Franchise Store Purchase Orders" style="rounded=1;whiteSpace=wrap;html=1;" parent="17v_tddYD5YED9fllH2--1" vertex="1">
-          <mxGeometry x="-530" y="840" width="90" height="60" as="geometry" />
+          <mxGeometry x="-430" y="760" width="190" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Third Party Supply" id="HI39p95Rs8_qXMwsBMbA">
-    <mxGraphModel dx="2489" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="Third Party Supply" id="73dfMb3KHLpG6mg3Pfn-">
+    <mxGraphModel dx="2249" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <mxCell id="MigpmszVxmuF-ceC0Sy4-0" />
-        <mxCell id="MigpmszVxmuF-ceC0Sy4-1" parent="MigpmszVxmuF-ceC0Sy4-0" />
-        <mxCell id="MigpmszVxmuF-ceC0Sy4-2" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;" vertex="1" parent="MigpmszVxmuF-ceC0Sy4-1">
-          <mxGeometry x="-710" y="80" width="510" height="250" as="geometry" />
+        <mxCell id="1DQ0zLW5CjV3VldknKk9-0" />
+        <mxCell id="1DQ0zLW5CjV3VldknKk9-1" parent="1DQ0zLW5CjV3VldknKk9-0" />
+        <mxCell id="1DQ0zLW5CjV3VldknKk9-2" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;" vertex="1" parent="1DQ0zLW5CjV3VldknKk9-1">
+          <mxGeometry x="-710" y="690" width="510" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="MigpmszVxmuF-ceC0Sy4-3" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;" vertex="1" parent="MigpmszVxmuF-ceC0Sy4-1">
+        <mxCell id="1DQ0zLW5CjV3VldknKk9-3" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;" vertex="1" parent="1DQ0zLW5CjV3VldknKk9-1">
+          <mxGeometry x="-710" y="110" width="510" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="1DQ0zLW5CjV3VldknKk9-4" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;" vertex="1" parent="1DQ0zLW5CjV3VldknKk9-1">
           <mxGeometry x="-710" y="400" width="510" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="MigpmszVxmuF-ceC0Sy4-4" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;" vertex="1" parent="MigpmszVxmuF-ceC0Sy4-1">
+        <mxCell id="1DQ0zLW5CjV3VldknKk9-5" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;" vertex="1" parent="1DQ0zLW5CjV3VldknKk9-1">
           <mxGeometry x="-150" y="390" width="380" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="MigpmszVxmuF-ceC0Sy4-5" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;" vertex="1" parent="MigpmszVxmuF-ceC0Sy4-1">
-          <mxGeometry x="-700" y="790" width="380" height="250" as="geometry" />
-        </mxCell>
-        <mxCell id="MigpmszVxmuF-ceC0Sy4-6" value="Own Store Supply Invoices" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MigpmszVxmuF-ceC0Sy4-1">
-          <mxGeometry x="-650" y="250" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MigpmszVxmuF-ceC0Sy4-7" value="Franchise Store Supply Invoices" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MigpmszVxmuF-ceC0Sy4-1">
-          <mxGeometry x="-660" y="840" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MigpmszVxmuF-ceC0Sy4-8" value="Store Orders" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MigpmszVxmuF-ceC0Sy4-1">
+        <mxCell id="1DQ0zLW5CjV3VldknKk9-8" value="Store Orders" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1DQ0zLW5CjV3VldknKk9-1">
           <mxGeometry x="-640" y="480" width="390" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MigpmszVxmuF-ceC0Sy4-9" value="Customer Orders" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MigpmszVxmuF-ceC0Sy4-1">
+        <mxCell id="1DQ0zLW5CjV3VldknKk9-9" value="Customer Orders" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1DQ0zLW5CjV3VldknKk9-1">
           <mxGeometry x="-90" y="485" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MigpmszVxmuF-ceC0Sy4-10" value="Own Store Orders" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MigpmszVxmuF-ceC0Sy4-1">
-          <mxGeometry x="-490" y="250" width="210" height="60" as="geometry" />
+        <mxCell id="1DQ0zLW5CjV3VldknKk9-10" value="Own Store Orders" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1DQ0zLW5CjV3VldknKk9-1">
+          <mxGeometry x="-440" y="250" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MigpmszVxmuF-ceC0Sy4-11" value="Own Store Customer&lt;br&gt;Invoices" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MigpmszVxmuF-ceC0Sy4-1">
-          <mxGeometry x="-360" y="150" width="90" height="60" as="geometry" />
+        <mxCell id="1DQ0zLW5CjV3VldknKk9-11" value="Own Store Customer&lt;br&gt;Invoices" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1DQ0zLW5CjV3VldknKk9-1">
+          <mxGeometry x="-320" y="150" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MigpmszVxmuF-ceC0Sy4-12" value="Franchise Customer Invoices" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MigpmszVxmuF-ceC0Sy4-1">
-          <mxGeometry x="-430" y="840" width="100" height="60" as="geometry" />
+        <mxCell id="1DQ0zLW5CjV3VldknKk9-12" value="Franchise Customer Invoices" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1DQ0zLW5CjV3VldknKk9-1">
+          <mxGeometry x="-315" y="760" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MigpmszVxmuF-ceC0Sy4-13" value="Franchise&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MigpmszVxmuF-ceC0Sy4-1">
-          <mxGeometry x="-140" y="820" width="120" height="60" as="geometry" />
+        <mxCell id="1DQ0zLW5CjV3VldknKk9-15" value="Own Store Purchase Orders" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1DQ0zLW5CjV3VldknKk9-1">
+          <mxGeometry x="-440" y="150" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MigpmszVxmuF-ceC0Sy4-14" value="Own Store Purchase Orders" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MigpmszVxmuF-ceC0Sy4-1">
-          <mxGeometry x="-490" y="150" width="90" height="60" as="geometry" />
+        <mxCell id="1DQ0zLW5CjV3VldknKk9-16" value="Own Store Purchase Orders" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1DQ0zLW5CjV3VldknKk9-1">
+          <mxGeometry x="-440" y="760" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MigpmszVxmuF-ceC0Sy4-15" value="Franchise Store Purchase Orders" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MigpmszVxmuF-ceC0Sy4-1">
-          <mxGeometry x="-530" y="840" width="90" height="60" as="geometry" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Stock Ledger-  Warehouse" id="GQFFgit924U1luR35Npb">
+    <mxGraphModel dx="2249" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="ws2Ox3_4FYoyUnTtv1Ze-0" />
+        <mxCell id="ws2Ox3_4FYoyUnTtv1Ze-1" parent="ws2Ox3_4FYoyUnTtv1Ze-0" />
+        <mxCell id="ws2Ox3_4FYoyUnTtv1Ze-3" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;" vertex="1" parent="ws2Ox3_4FYoyUnTtv1Ze-1">
+          <mxGeometry x="-710" y="110" width="510" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="ws2Ox3_4FYoyUnTtv1Ze-15" value="General Ledger" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;verticalAlign=top;rotation=90;" vertex="1" parent="ws2Ox3_4FYoyUnTtv1Ze-1">
+          <mxGeometry x="-670" y="160" width="180" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ws2Ox3_4FYoyUnTtv1Ze-2" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;" vertex="1" parent="ws2Ox3_4FYoyUnTtv1Ze-1">
+          <mxGeometry x="-710" y="690" width="510" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="ws2Ox3_4FYoyUnTtv1Ze-4" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;" vertex="1" parent="ws2Ox3_4FYoyUnTtv1Ze-1">
+          <mxGeometry x="-710" y="400" width="510" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="ws2Ox3_4FYoyUnTtv1Ze-5" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;" vertex="1" parent="ws2Ox3_4FYoyUnTtv1Ze-1">
+          <mxGeometry x="-150" y="390" width="380" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="ws2Ox3_4FYoyUnTtv1Ze-6" value="PRMS Store Stock" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ws2Ox3_4FYoyUnTtv1Ze-1">
+          <mxGeometry x="-640" y="480" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ws2Ox3_4FYoyUnTtv1Ze-7" value="Store Stock Quantity" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ws2Ox3_4FYoyUnTtv1Ze-1">
+          <mxGeometry x="-90" y="480" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ws2Ox3_4FYoyUnTtv1Ze-14" value="Nobia Stock Value" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ws2Ox3_4FYoyUnTtv1Ze-1">
+          <mxGeometry x="-650" y="240" width="140" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Stock Ledger-  No Warehouse" id="0xqwUgnX253JzgeQYl1H">
+    <mxGraphModel dx="2249" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="IkdPTKBB6_Nl0vciRkAG-0" />
+        <mxCell id="IkdPTKBB6_Nl0vciRkAG-1" parent="IkdPTKBB6_Nl0vciRkAG-0" />
+        <mxCell id="IkdPTKBB6_Nl0vciRkAG-2" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;" vertex="1" parent="IkdPTKBB6_Nl0vciRkAG-1">
+          <mxGeometry x="-710" y="110" width="510" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="IkdPTKBB6_Nl0vciRkAG-3" value="General Ledger" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;verticalAlign=top;rotation=90;" vertex="1" parent="IkdPTKBB6_Nl0vciRkAG-1">
+          <mxGeometry x="-430" y="160" width="180" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="IkdPTKBB6_Nl0vciRkAG-4" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;" vertex="1" parent="IkdPTKBB6_Nl0vciRkAG-1">
+          <mxGeometry x="-710" y="690" width="510" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="IkdPTKBB6_Nl0vciRkAG-5" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;" vertex="1" parent="IkdPTKBB6_Nl0vciRkAG-1">
+          <mxGeometry x="-710" y="400" width="510" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="IkdPTKBB6_Nl0vciRkAG-6" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;" vertex="1" parent="IkdPTKBB6_Nl0vciRkAG-1">
+          <mxGeometry x="-150" y="390" width="380" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="IkdPTKBB6_Nl0vciRkAG-8" value="Store Stock Quantity" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="IkdPTKBB6_Nl0vciRkAG-1">
+          <mxGeometry x="-90" y="480" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IkdPTKBB6_Nl0vciRkAG-9" value="Nobia Stock Value" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="IkdPTKBB6_Nl0vciRkAG-1">
+          <mxGeometry x="-410" y="240" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3WahdRk8mF6hTrRKMEYW-0" value="Franchise Operator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="IkdPTKBB6_Nl0vciRkAG-1">
+          <mxGeometry x="10" y="790" width="55" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
