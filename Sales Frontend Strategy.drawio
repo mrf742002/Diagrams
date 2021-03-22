@@ -1,4 +1,4 @@
-<mxfile modified="2021-03-22T14:43:47.383Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="wqgTAJxpKron9kCaqRU5" version="14.4.9" type="github" pages="14">
+<mxfile modified="2021-03-22T14:44:34.008Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="KWr5jx9mNTgOdLhBkjK2" version="14.4.9" type="github" pages="14">
   <diagram id="pmYJ5B--xqqTepk768Oj" name="Two Portals">
     <mxGraphModel dx="1662" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -866,7 +866,7 @@
         <mxCell id="WA_yOEOlygXgIbqIuGfc-12" value="&lt;b style=&quot;font-size: 26px&quot;&gt;Payments&lt;br style=&quot;font-size: 26px&quot;&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;strokeWidth=3;strokeColor=#020912;fontSize=26;" parent="WA_yOEOlygXgIbqIuGfc-1" vertex="1">
           <mxGeometry x="700" y="366" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="WA_yOEOlygXgIbqIuGfc-14" value="Fiori Launchpad" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;fontSize=26;" parent="WA_yOEOlygXgIbqIuGfc-1" vertex="1">
+        <mxCell id="WA_yOEOlygXgIbqIuGfc-14" value="SAP Launchpad Service" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;fontSize=26;" parent="WA_yOEOlygXgIbqIuGfc-1" vertex="1">
           <mxGeometry x="-330" y="60" width="1200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="d3MvWRfEP5VUfpeBFmdY-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WA_yOEOlygXgIbqIuGfc-1" source="WA_yOEOlygXgIbqIuGfc-15" target="WA_yOEOlygXgIbqIuGfc-10" edge="1">
