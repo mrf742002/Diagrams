@@ -1,4 +1,4 @@
-<mxfile modified="2021-03-22T12:59:39.410Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="i3_QsHxl79vyg7D50GG5" version="14.4.9" type="github" pages="14">
+<mxfile modified="2021-03-22T14:37:28.574Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="fvDgsHBN_uOB3tCaqpLI" version="14.4.9" type="github" pages="14">
   <diagram id="pmYJ5B--xqqTepk768Oj" name="Two Portals">
     <mxGraphModel dx="1662" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -826,7 +826,7 @@
           <mxGeometry x="-574" y="366" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="mRRk9AxjQxAkGo5yADOv-3" value="&lt;b style=&quot;font-size: 26px&quot;&gt;Payments&lt;br style=&quot;font-size: 26px&quot;&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;strokeWidth=3;strokeColor=#020912;fontSize=26;" vertex="1" parent="qrKtQmx5x8iyWADQx7dG-1">
-          <mxGeometry x="-914" y="366" width="150" height="90" as="geometry" />
+          <mxGeometry x="-940" y="366" width="150" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
