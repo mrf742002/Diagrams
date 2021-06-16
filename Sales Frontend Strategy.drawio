@@ -1,4 +1,4 @@
-<mxfile modified="2021-06-16T10:11:36.210Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="G7suG9ziN1MXjWAgfdVU" version="14.7.9" type="github" pages="16">
+<mxfile modified="2021-06-16T16:11:15.688Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="vkIHPFYQ9xV1ma4FmEX9" version="14.7.9" type="github" pages="16">
   <diagram id="pmYJ5B--xqqTepk768Oj" name="Two Portals">
     <mxGraphModel dx="1422" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1323,12 +1323,6 @@
             <mxPoint x="-37" y="180" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eyd_QJ8j9VVPoHNMeAhC-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="eyd_QJ8j9VVPoHNMeAhC-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="170" y="100" as="sourcePoint" />
-            <mxPoint x="170" y="-100" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="eyd_QJ8j9VVPoHNMeAhC-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" parent="eyd_QJ8j9VVPoHNMeAhC-1" target="eyd_QJ8j9VVPoHNMeAhC-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="170" y="180" as="sourcePoint" />
@@ -1336,8 +1330,8 @@
         </mxCell>
         <mxCell id="eyd_QJ8j9VVPoHNMeAhC-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" parent="eyd_QJ8j9VVPoHNMeAhC-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="355" y="100" as="sourcePoint" />
-            <mxPoint x="355" y="-100" as="targetPoint" />
+            <mxPoint x="24.5" y="30" as="sourcePoint" />
+            <mxPoint x="24.5" y="-170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eyd_QJ8j9VVPoHNMeAhC-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" parent="eyd_QJ8j9VVPoHNMeAhC-1" target="eyd_QJ8j9VVPoHNMeAhC-9" edge="1">
@@ -1388,7 +1382,7 @@
           <mxGeometry x="-230" y="-340" width="340" height="200" as="geometry" />
         </mxCell>
         <mxCell id="IZyASh4-54mtcHLBYU53-2" value="MashUps" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;fontSize=26;" vertex="1" parent="eyd_QJ8j9VVPoHNMeAhC-1">
-          <mxGeometry x="610" y="-340" width="260" height="200" as="geometry" />
+          <mxGeometry x="520" y="-340" width="210" height="200" as="geometry" />
         </mxCell>
         <mxCell id="IZyASh4-54mtcHLBYU53-3" value="CPQ" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;fontSize=26;" vertex="1" parent="eyd_QJ8j9VVPoHNMeAhC-1">
           <mxGeometry x="-210" y="-270" width="130" height="100" as="geometry" />
@@ -1400,7 +1394,7 @@
           <mxGeometry x="280" y="-270" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="IZyASh4-54mtcHLBYU53-6" value="Customer Web Activity" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;fontSize=26;" vertex="1" parent="eyd_QJ8j9VVPoHNMeAhC-1">
-          <mxGeometry x="675" y="-270" width="130" height="100" as="geometry" />
+          <mxGeometry x="560" y="-280" width="130" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
