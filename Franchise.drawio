@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-23T09:37:40.164Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="eSuxObapcXUqKwDIcmbm" version="14.8.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-06-23T09:39:19.968Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="_z6UjADh69Auqozs1gfe" version="14.8.0" type="github" pages="7">
   <diagram id="jrDWQYRpgAg6JNiqAati" name=" Nobia Supply">
     <mxGraphModel dx="2249" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -382,6 +382,28 @@
         <mxCell id="hDvQUWtPvzZPX8gTFSnm-8" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.corporate_data_center;gradientColor=none;strokeWidth=2;fillColor=#000000;" vertex="1" parent="xev3PPcgDSWO2fm31PF--1">
           <mxGeometry x="500" y="70" width="46.5" height="63" as="geometry" />
         </mxCell>
+        <mxCell id="fnTInW0fQXc2r4hrCVsQ-0" value="" style="endArrow=classic;html=1;dashed=1;strokeWidth=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.439;entryY=1.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="xev3PPcgDSWO2fm31PF--1" source="hDvQUWtPvzZPX8gTFSnm-4" target="hDvQUWtPvzZPX8gTFSnm-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="680" as="sourcePoint" />
+            <mxPoint x="420" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fnTInW0fQXc2r4hrCVsQ-2" value="Sales Processes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fnTInW0fQXc2r4hrCVsQ-0">
+          <mxGeometry x="0.1441" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fnTInW0fQXc2r4hrCVsQ-1" value="" style="endArrow=classic;html=1;dashed=1;strokeWidth=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.554;entryY=0.999;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="xev3PPcgDSWO2fm31PF--1" source="hDvQUWtPvzZPX8gTFSnm-4" target="hDvQUWtPvzZPX8gTFSnm-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="424" y="750" as="sourcePoint" />
+            <mxPoint x="166.08999999999992" y="561.8599999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fnTInW0fQXc2r4hrCVsQ-3" value="Stock Handling Processes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fnTInW0fQXc2r4hrCVsQ-1">
+          <mxGeometry x="0.1134" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -520,6 +542,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="660" as="sourcePoint" />
             <mxPoint x="440" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jvVVZyFYn4BYY8Mt7LWs-0" value="ALL Processes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2yseZZR1O4K5VPSn37RU-33">
+          <mxGeometry x="0.3597" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
