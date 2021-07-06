@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-06T15:17:32.210Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="ZEJimw2w5sAbt5myTvGv" version="14.8.4" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2021-07-06T15:54:05.510Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="9djYAyOVfgObn3fyGS7j" version="14.8.4" type="github" pages="10">
   <diagram id="jrDWQYRpgAg6JNiqAati" name=" Nobia Supply">
     <mxGraphModel dx="2249" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -631,11 +631,17 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K2uSk5qyEVv8xokMy2An-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" parent="K2uSk5qyEVv8xokMy2An-1" source="K2uSk5qyEVv8xokMy2An-11" target="K2uSk5qyEVv8xokMy2An-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="K2uSk5qyEVv8xokMy2An-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="K2uSk5qyEVv8xokMy2An-1" source="K2uSk5qyEVv8xokMy2An-11" target="K2uSk5qyEVv8xokMy2An-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="555" y="550" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="K2uSk5qyEVv8xokMy2An-11" value="&lt;span style=&quot;font-size: 32px&quot;&gt;Order (End Customer)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;" parent="K2uSk5qyEVv8xokMy2An-1" vertex="1">
           <mxGeometry x="490" y="240" width="260" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="-J4lSaOhyvsXCUteqwzX-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="K2uSk5qyEVv8xokMy2An-1" source="K2uSk5qyEVv8xokMy2An-13" target="K2uSk5qyEVv8xokMy2An-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K2uSk5qyEVv8xokMy2An-13" value="&lt;span style=&quot;font-size: 32px&quot;&gt;Order (Franchise)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;" parent="K2uSk5qyEVv8xokMy2An-1" vertex="1">
           <mxGeometry x="490" y="540" width="260" height="110" as="geometry" />
