@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-15T15:11:43.712Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="bhWfaCZkRSJVQJjW3Mv_" version="14.8.6" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2021-07-15T15:13:17.293Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="S2IWlXr9ZWKpTHlogabN" version="14.8.6" type="github" pages="13">
   <diagram id="jrDWQYRpgAg6JNiqAati" name=" Nobia Supply">
     <mxGraphModel dx="2249" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -947,23 +947,20 @@
         <mxCell id="LUjNmleA8om1QZXmLVJG-0" value="&lt;font style=&quot;font-size: 32px&quot;&gt;Sales Order&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;" parent="KBvUy4Tad5Vfh5N_2v7G-1" vertex="1">
           <mxGeometry x="450" y="-10" width="520" height="780" as="geometry" />
         </mxCell>
+        <mxCell id="ie__fCzDB-Rdv1aYIL0M-2" value="&lt;font style=&quot;font-size: 32px&quot;&gt;Web Order&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;dashed=1;" vertex="1" parent="KBvUy4Tad5Vfh5N_2v7G-1">
+          <mxGeometry x="475" y="190" width="470" height="180" as="geometry" />
+        </mxCell>
         <mxCell id="LUjNmleA8om1QZXmLVJG-1" value="&lt;font style=&quot;font-size: 32px&quot;&gt;Nobia Make to Order&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;" parent="KBvUy4Tad5Vfh5N_2v7G-1" vertex="1">
-          <mxGeometry x="540" y="220" width="360" height="120" as="geometry" />
+          <mxGeometry x="540" y="50" width="360" height="120" as="geometry" />
         </mxCell>
         <mxCell id="LUjNmleA8om1QZXmLVJG-2" value="&lt;font style=&quot;font-size: 32px&quot;&gt;Franchise Local Stock&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;" parent="KBvUy4Tad5Vfh5N_2v7G-1" vertex="1">
-          <mxGeometry x="540" y="60" width="360" height="115" as="geometry" />
+          <mxGeometry x="540" y="240" width="360" height="115" as="geometry" />
         </mxCell>
         <mxCell id="LUjNmleA8om1QZXmLVJG-3" value="&lt;font style=&quot;font-size: 32px&quot;&gt;Franchise Direct to Third Party (Approved Products)&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;" parent="KBvUy4Tad5Vfh5N_2v7G-1" vertex="1">
           <mxGeometry x="540" y="410" width="360" height="120" as="geometry" />
         </mxCell>
         <mxCell id="LUjNmleA8om1QZXmLVJG-4" value="&lt;font style=&quot;font-size: 32px&quot;&gt;Franchise Direct to Third Party (Un-Approved Products)&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;" parent="KBvUy4Tad5Vfh5N_2v7G-1" vertex="1">
           <mxGeometry x="540" y="585" width="360" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="ie__fCzDB-Rdv1aYIL0M-0" value="&lt;font style=&quot;font-size: 32px&quot;&gt;Web Order&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;arcSize=22;" vertex="1" parent="KBvUy4Tad5Vfh5N_2v7G-1">
-          <mxGeometry x="450" y="-200" width="520" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="ie__fCzDB-Rdv1aYIL0M-1" value="&lt;font style=&quot;font-size: 32px&quot;&gt;Franchise Local Stock&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;strokeColor=#020912;" vertex="1" parent="KBvUy4Tad5Vfh5N_2v7G-1">
-          <mxGeometry x="540" y="-150" width="360" height="115" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
